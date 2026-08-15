@@ -390,7 +390,7 @@
             "last_commit": "2023-06-17T10:56:46Z",
             "owner": "marl",
             "repo": "openl3",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14015
+            "stars": 14014
           }
         },
         {
@@ -1396,7 +1396,7 @@
             "last_commit": "2024-06-05T02:33:12Z",
             "owner": "researchmm",
             "repo": "MM-Diffusion",
-            "stars": 453
+            "stars": 451
           }
         },
         {
@@ -1753,7 +1753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:52:58.447Z",
+    "last_updated": "2026-08-15T11:30:45.954Z",
     "original_repository": "krantiparida/awesome-audio-visual",
     "original_repository_sha": "257f198638176358a3a49fc7bb00635fb71842ee",
     "enhanced_repository": "enhansome/enhansome-audio-visual",
