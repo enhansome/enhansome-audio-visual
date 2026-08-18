@@ -1,6 +1,6 @@
 # Awesome Audio-Visual: with stars
 
-A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,500 | 🐛 91 | 📅 2024-05-17.
+A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,502 | 🐛 91 | 📅 2024-05-17.
 
 ## Contents
 
@@ -147,7 +147,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 * [Visually Informed Binaural Audio Generation without Binaural Audios](https://arxiv.org/pdf/2104.06162.pdf) - Xu, X., Zhou, H., Liu, Z., Dai, B., Wang, X., & Lin, D. (CVPR 2021) [\[code\]](https://github.com/SheldonTsui/PseudoBinaural_CVPR2021) ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2021-07-08
 * [Beyond image to depth: Improving depth prediction using echoes](https://arxiv.org/pdf/2103.08468.pdf) - Parida, K. K., Srivastava, S., & Sharma, G. (CVPR 2021) [\[code\]](https://github.com/krantiparida/beyond-image-to-depth) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2021-06-29 [\[project page\]](https://krantiparida.github.io/projects/bimgdepth.html)
 * [Learning Representations from Audio-Visual Spatial Alignment](https://pedro-morgado.github.io/assets/publications/2020-sptalign/paper.pdf) - Morgado, P., Li, Y., & Nvasconcelos, N. (NeurIPS 2020) [\[code\]](https://github.com/pedro-morgado/AVSpatialAlignment) ⭐ 31 | 🐛 3 | 🌐 C++ | 📅 2022-06-14
-* [Few-Shot Audio-Visual Learning of Environment Acoustics](https://proceedings.neurips.cc/paper_files/paper/2022/file/113ae3a9762ca2168f860a8501d6ae25-Paper-Conference.pdf) - Majumder, S., Chen, C., Al-Halah, Z., & Grauman, K. NeurIPS (2022) [\[code\]](https://github.com/SAGNIKMJR/few-shot-rir) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-06-16
+* [Few-Shot Audio-Visual Learning of Environment Acoustics](https://proceedings.neurips.cc/paper_files/paper/2022/file/113ae3a9762ca2168f860a8501d6ae25-Paper-Conference.pdf) - Majumder, S., Chen, C., Al-Halah, Z., & Grauman, K. NeurIPS (2022) [\[code\]](https://github.com/SAGNIKMJR/few-shot-rir) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2026-06-16
 * [BatVision: Learning to See 3D Spatial Layout with Two Ears](https://arxiv.org/pdf/1912.07011.pdf) - Christensen, J. H., Hornauer, S., & Yu, S. (ICRA 2020) [\[dataset/code\]](https://github.com/SaschaHornauer/Batvision) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2024-02-19
 * [Camera Pose Estimation and Localization with Active Audio Sensing](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970266.pdf) - Yang, K., Firman, M., Brachmann, E., & Godard, C. (ECCV 2022)
 * [Localize to Binauralize: Audio Spatialization From Visual Sound Source Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Rachavarapu_Localize_to_Binauralize_Audio_Spatialization_From_Visual_Sound_Source_Localization_ICCV_2021_paper.pdf) - Rachavarapu, K. K., Sundaresha, V., & Rajagopalan, A. N. (ICCV 2021)
@@ -196,7 +196,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Faces/Speech
 
-* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,018 | 🐛 665 | 🌐 Python | 📅 2024-06-26
+* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,019 | 🐛 665 | 🌐 Python | 📅 2024-06-26
 * [Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction](https://openreview.net/pdf?id=Z1Qlm11uOM) - Shi, B., Hsu, W. N., Lakhotia, K., & Mohamed, A. (ICLR 2022) [\[code\]](https://github.com/facebookresearch/av_hubert) ⚠️ Archived
 * [Pose-controllable talking face generation by implicitly modularized audio-visual representation](https://arxiv.org/pdf/2104.11116.pdf) - Zhou, H., Sun, Y., Wu, W., Loy, C. C., Wang, X., & Liu, Z. (CVPR 2021) [\[project page\]](https://hangz-nju-cuhk.github.io/projects/PC-AVS) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS) ⭐ 959 | 🐛 49 | 🌐 Python | 📅 2024-01-06
 * [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation](https://arxiv.org/pdf/1807.07860.pdf) - Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang (AAAI 2019) [\[project page\]](https://liuziwei7.github.io/projects/TalkingFace) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS) ⭐ 813 | 🐛 42 | 🌐 Python | 📅 2021-05-11
@@ -363,4 +363,4 @@ Please feel free to send me [pull requests](https://github.com/krantiparida/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
