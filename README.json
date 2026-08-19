@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139663560,
             "language": "Python",
             "last_commit": "2021-04-03T14:18:44Z",
             "owner": "YapengTian",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246795152,
             "language": "Python",
             "last_commit": "2021-10-18T13:50:57Z",
             "owner": "shvdiwnkozbw",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355235104,
             "language": "Python",
             "last_commit": "2022-07-06T19:56:23Z",
             "owner": "hche11",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248919206,
             "language": "Python",
             "last_commit": "2022-01-19T12:09:52Z",
             "owner": "DTaoo",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 618161998,
             "language": "Python",
             "last_commit": "2023-03-24T00:25:22Z",
             "owner": "stoneMo",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 354195497,
             "language": "Python",
             "last_commit": "2022-07-05T14:48:59Z",
             "owner": "jasongief",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470201948,
             "language": "Python",
             "last_commit": "2022-03-18T08:50:14Z",
             "owner": "marmot-xy",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617828838,
             "language": "Python",
             "last_commit": "2023-04-10T13:05:07Z",
             "owner": "OpenNLPLab",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 611455432,
             "language": "Python",
             "last_commit": "2024-01-06T03:05:07Z",
             "owner": "WikiChao",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 475526772,
             "language": "Python",
             "last_commit": "2022-09-06T14:55:32Z",
             "owner": "asudahkzj",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352921663,
             "language": "Python",
             "last_commit": "2021-12-29T04:20:09Z",
             "owner": "Yu-Wu",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 494584829,
             "language": "Python",
             "last_commit": "2024-03-20T03:17:16Z",
             "owner": "hxixixh",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521393686,
             "language": "Python",
             "last_commit": "2022-12-06T22:31:57Z",
             "owner": "stoneMo",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 494383504,
             "language": "Python",
             "last_commit": "2022-12-22T17:07:38Z",
             "owner": "stoneMo",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319977112,
             "language": null,
             "last_commit": "2021-10-15T20:38:48Z",
             "owner": "W-zx-Y",
@@ -217,7 +232,7 @@
       "title": "Audio-Visual Localization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158138352,
             "language": "Python",
             "last_commit": "2022-04-25T06:26:41Z",
             "owner": "hangzhaomit",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 320110115,
             "language": "Python",
             "last_commit": "2023-07-25T00:43:02Z",
             "owner": "facebookresearch",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 571634409,
             "language": "Python",
             "last_commit": "2023-07-25T06:02:12Z",
             "owner": "JiabenChen",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279797462,
             "language": "Python",
             "last_commit": "2020-10-20T08:01:36Z",
             "owner": "SheldonTsui",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147401202,
             "language": "Python",
             "last_commit": "2019-09-24T18:20:05Z",
             "owner": "rhgao",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 466887007,
             "language": "Python",
             "last_commit": "2023-03-18T20:43:44Z",
             "owner": "JuanFMontesinos",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352473783,
             "language": "Python",
             "last_commit": "2021-11-24T02:21:56Z",
             "owner": "YapengTian",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 593329222,
             "language": "Python",
             "last_commit": "2023-10-02T18:14:25Z",
             "owner": "rxtan2",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 413171867,
             "language": "Python",
             "last_commit": "2026-06-17T01:30:35Z",
             "owner": "SAGNIKMJR",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 419121777,
             "language": "Python",
             "last_commit": "2021-12-09T17:33:40Z",
             "owner": "ubc-vision",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 515055524,
             "language": "Python",
             "last_commit": "2026-06-16T06:17:58Z",
             "owner": "SAGNIKMJR",
@@ -377,7 +403,7 @@
       "title": "Audio-Visual Separation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -386,11 +412,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153459506,
             "language": "Jupyter Notebook",
             "last_commit": "2023-06-17T10:56:46Z",
             "owner": "marl",
             "repo": "openl3",
-            "stars": 603
+            "stars": 604
           }
         },
         {
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70248555,
             "language": "Lua",
             "last_commit": "2017-10-07T03:20:20Z",
             "owner": "cvondrick",
@@ -414,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 511917351,
             "language": "Python",
             "last_commit": "2024-11-18T02:12:34Z",
             "owner": "OpenNLPLab",
@@ -428,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265020108,
             "language": "Python",
             "last_commit": "2021-09-13T19:26:53Z",
             "owner": "hche11",
@@ -442,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 616566843,
             "language": "Python",
             "last_commit": "2024-03-20T08:54:13Z",
             "owner": "YuanGongND",
@@ -456,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129283202,
             "language": "Python",
             "last_commit": "2019-07-17T06:57:17Z",
             "owner": "andrewowens",
@@ -470,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442903710,
             "language": "Python",
             "last_commit": "2022-06-01T18:21:15Z",
             "owner": "rowanz",
@@ -484,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352745261,
             "language": "Python",
             "last_commit": "2021-07-07T14:51:46Z",
             "owner": "yanbeic",
@@ -498,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 386173826,
             "language": "Python",
             "last_commit": "2021-11-18T08:08:08Z",
             "owner": "sangho-vision",
@@ -512,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 466693866,
             "language": "Python",
             "last_commit": "2022-11-29T10:26:47Z",
             "owner": "ExplainableML",
@@ -526,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 466693866,
             "language": "Python",
             "last_commit": "2022-11-29T10:26:47Z",
             "owner": "ExplainableML",
@@ -540,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264808051,
             "language": "Python",
             "last_commit": "2020-10-13T06:19:07Z",
             "owner": "DTaoo",
@@ -554,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512617755,
             "language": "Python",
             "last_commit": "2022-07-15T08:55:05Z",
             "owner": "MCG-NJU",
@@ -568,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514377209,
             "language": "Python",
             "last_commit": "2025-09-12T08:10:29Z",
             "owner": "ExplainableML",
@@ -582,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 348567598,
             "language": "Python",
             "last_commit": "2021-03-17T03:58:19Z",
             "owner": "yunyikristy",
@@ -596,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180631549,
             "language": "Python",
             "last_commit": "2023-03-24T22:30:32Z",
             "owner": "afperezm",
@@ -610,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110094787,
             "language": "Jupyter Notebook",
             "last_commit": "2017-11-14T08:45:30Z",
             "owner": "Kajiyu",
@@ -624,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 494383504,
             "language": "Python",
             "last_commit": "2022-12-22T17:07:38Z",
             "owner": "stoneMo",
@@ -638,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 516128143,
             "language": "Python",
             "last_commit": "2022-10-23T03:08:53Z",
             "owner": "HimangiM",
@@ -652,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277752133,
             "language": "Python",
             "last_commit": "2020-10-06T12:13:37Z",
             "owner": "IIT-PAVIS",
@@ -666,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210435934,
             "language": "Python",
             "last_commit": "2023-07-12T07:03:50Z",
             "owner": "krantiparida",
@@ -677,7 +724,7 @@
       "title": "Audio-Visual Representation/Classification/Retrieval"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -686,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200404842,
             "language": "Python",
             "last_commit": "2021-01-25T11:59:46Z",
             "owner": "ekazakos",
@@ -700,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 385232630,
             "language": "Python",
             "last_commit": "2022-07-27T15:40:48Z",
             "owner": "xiaobai1217",
@@ -711,7 +760,7 @@
       "title": "Audio-Visual Action Recognition"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -720,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147755865,
             "language": "Python",
             "last_commit": "2023-03-24T22:30:14Z",
             "owner": "pedro-morgado",
@@ -734,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 173596914,
             "language": null,
             "last_commit": "2021-09-21T18:17:37Z",
             "owner": "facebookresearch",
@@ -748,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349606291,
             "language": "Python",
             "last_commit": "2021-07-08T05:17:31Z",
             "owner": "SheldonTsui",
@@ -762,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346121811,
             "language": "Python",
             "last_commit": "2021-06-29T17:19:46Z",
             "owner": "krantiparida",
@@ -776,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 305506536,
             "language": "C++",
             "last_commit": "2022-06-14T13:56:17Z",
             "owner": "pedro-morgado",
@@ -790,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570744614,
             "language": "Python",
             "last_commit": "2026-06-16T06:23:35Z",
             "owner": "SAGNIKMJR",
@@ -804,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243115617,
             "language": "Python",
             "last_commit": "2024-02-19T16:22:06Z",
             "owner": "SaschaHornauer",
@@ -815,7 +871,7 @@
       "title": "Audio-Visual Spatial/Depth"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -824,11 +880,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 463999907,
             "language": "Python",
             "last_commit": "2024-01-20T19:07:16Z",
             "owner": "aluo-x",
             "repo": "Learning_Neural_Acoustic_Fields",
-            "stars": 168
+            "stars": 169
           }
         },
         {
@@ -838,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300330687,
             "language": "Python",
             "last_commit": "2021-10-12T17:28:39Z",
             "owner": "nikhilsinghmus",
@@ -852,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 501521651,
             "language": "Python",
             "last_commit": "2023-02-28T04:30:26Z",
             "owner": "facebookresearch",
@@ -866,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 655357263,
             "language": "Python",
             "last_commit": "2023-08-14T15:16:13Z",
             "owner": "facebookresearch",
@@ -880,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 502809309,
             "language": "Python",
             "last_commit": "2022-08-10T02:04:01Z",
             "owner": "facebookresearch",
@@ -891,7 +952,7 @@
       "title": "Audio-Visual RIR"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -900,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 282289621,
             "language": "Python",
             "last_commit": "2023-09-29T03:24:35Z",
             "owner": "facebookresearch",
@@ -914,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 282289621,
             "language": "Python",
             "last_commit": "2023-09-29T03:24:35Z",
             "owner": "facebookresearch",
@@ -928,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185203947,
             "language": "Python",
             "last_commit": "2020-11-17T23:48:15Z",
             "owner": "vdean",
@@ -942,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455447434,
             "language": "Python",
             "last_commit": "2022-11-09T02:32:42Z",
             "owner": "yyf17",
@@ -953,7 +1018,7 @@
       "title": "Audio-Visual Navigation/RL"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -962,11 +1027,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569518584,
             "language": "Python",
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14019
+            "stars": 14021
           }
         },
         {
@@ -976,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 441139447,
             "language": "Python",
             "last_commit": "2023-12-07T00:17:57Z",
             "owner": "facebookresearch",
@@ -990,6 +1057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351362064,
             "language": "Python",
             "last_commit": "2024-01-06T10:21:53Z",
             "owner": "Hangz-nju-cuhk",
@@ -1004,6 +1072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141694035,
             "language": "Python",
             "last_commit": "2021-05-11T08:55:10Z",
             "owner": "Hangz-nju-cuhk",
@@ -1018,11 +1087,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254537651,
             "language": "Python",
             "last_commit": "2023-07-06T21:43:10Z",
             "owner": "Rudrabha",
             "repo": "Lip2Wav",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -1032,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 587157225,
             "language": "Python",
             "last_commit": "2024-07-15T12:46:56Z",
             "owner": "sstzal",
@@ -1046,6 +1117,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 282289621,
             "language": "Python",
             "last_commit": "2023-09-29T03:24:35Z",
             "owner": "facebookresearch",
@@ -1060,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106429630,
             "language": "MATLAB",
             "last_commit": "2019-02-04T17:07:46Z",
             "owner": "a-nagrani",
@@ -1074,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355809824,
             "language": "Jupyter Notebook",
             "last_commit": "2022-03-16T11:18:24Z",
             "owner": "jixinya",
@@ -1088,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 612845360,
             "language": "Python",
             "last_commit": "2026-03-18T08:59:16Z",
             "owner": "Advocate99",
@@ -1102,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160437340,
             "language": "Python",
             "last_commit": "2023-05-24T22:45:35Z",
             "owner": "lelechen63",
@@ -1116,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146717113,
             "language": "Jupyter Notebook",
             "last_commit": "2020-02-26T09:23:05Z",
             "owner": "oawiles",
@@ -1130,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449183219,
             "language": "Python",
             "last_commit": "2022-07-21T11:34:14Z",
             "owner": "alvinliu0",
@@ -1144,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190936593,
             "language": "Python",
             "last_commit": "2020-01-05T14:55:04Z",
             "owner": "cmu-mlsp",
@@ -1158,6 +1237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 393409701,
             "language": "Python",
             "last_commit": "2024-01-01T23:52:33Z",
             "owner": "JingLi513",
@@ -1172,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540898750,
             "language": null,
             "last_commit": "2022-12-05T18:51:13Z",
             "owner": "alvinliu0",
@@ -1186,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 608333386,
             "language": "Python",
             "last_commit": "2025-02-27T00:06:14Z",
             "owner": "ahaliassos",
@@ -1200,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130454193,
             "language": "Matlab",
             "last_commit": "2018-04-29T14:05:54Z",
             "owner": "joonson",
@@ -1214,6 +1297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250007340,
             "language": "Python",
             "last_commit": "2020-07-20T14:41:22Z",
             "owner": "gmeishvili",
@@ -1228,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614162558,
             "language": "Python",
             "last_commit": "2023-06-20T22:33:17Z",
             "owner": "joannahong",
@@ -1242,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134904932,
             "language": "Matlab",
             "last_commit": "2018-08-22T17:24:23Z",
             "owner": "a-nagrani",
@@ -1256,6 +1342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474845386,
             "language": null,
             "last_commit": "2022-03-28T04:31:36Z",
             "owner": "yzhou359",
@@ -1270,6 +1357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368105887,
             "language": "Python",
             "last_commit": "2021-06-08T08:58:26Z",
             "owner": "KID-7391",
@@ -1284,24 +1372,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 511105019,
             "language": "Python",
             "last_commit": "2022-09-07T05:28:11Z",
             "owner": "yesheng-THU",
             "repo": "GFGE",
             "stars": 15
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Disjoint mapping network for cross-modal matching of voices and faces",
-          "description": "Wen, Y., Ismail, M. A., Liu, W., Raj, B., & Singh, R. (ICLR 2019)[project page]",
-          "children": []
         }
       ],
       "title": "Audio-Visual Faces/Speech"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1310,6 +1393,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471220268,
             "language": "Python",
             "last_commit": "2022-12-30T09:35:28Z",
             "owner": "GeWu-Lab",
@@ -1324,6 +1408,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471536187,
             "language": "Python",
             "last_commit": "2022-12-20T07:29:07Z",
             "owner": "samuelyu2002",
@@ -1335,7 +1420,7 @@
       "title": "Audio-Visual Question Answering"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1344,6 +1429,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 368958866,
             "language": "Python",
             "last_commit": "2022-03-02T09:06:52Z",
             "owner": "google-research",
@@ -1358,6 +1444,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195211249,
             "language": "Python",
             "last_commit": "2020-10-31T04:28:41Z",
             "owner": "tuffr5",
@@ -1372,6 +1459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178062436,
             "language": "Python",
             "last_commit": "2019-10-21T16:52:32Z",
             "owner": "yunyikristy",
@@ -1383,7 +1471,7 @@
       "title": "Cross-modal Generation (Audio-Video / Video-Audio)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1392,6 +1480,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576799754,
             "language": "Python",
             "last_commit": "2024-06-05T02:33:12Z",
             "owner": "researchmm",
@@ -1406,6 +1495,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479014300,
             "language": "Python",
             "last_commit": "2023-08-14T13:26:04Z",
             "owner": "kuai-lab",
@@ -1420,6 +1510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481251859,
             "language": "Python",
             "last_commit": "2023-04-01T04:01:08Z",
             "owner": "mugen-org",
@@ -1434,6 +1525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512780960,
             "language": "Python",
             "last_commit": "2023-01-26T20:53:23Z",
             "owner": "Tinglok",
@@ -1445,7 +1537,7 @@
       "title": "Audio-Visual Stylization/Generation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1454,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435439859,
             "language": "Python",
             "last_commit": "2023-10-22T10:01:48Z",
             "owner": "Soldelli",
@@ -1468,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 154903769,
             "language": "Python",
             "last_commit": "2018-10-30T20:07:58Z",
             "owner": "facebookarchive",
@@ -1482,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 572758615,
             "language": "Python",
             "last_commit": "2024-05-12T22:25:59Z",
             "owner": "cfeng16",
@@ -1496,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 555538775,
             "language": null,
             "last_commit": "2022-12-05T19:36:27Z",
             "owner": "google-research-datasets",
@@ -1510,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202094360,
             "language": "Python",
             "last_commit": "2019-10-25T09:00:00Z",
             "owner": "Hangz-nju-cuhk",
@@ -1524,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344192128,
             "language": "Python",
             "last_commit": "2021-05-17T21:35:48Z",
             "owner": "robot-learning-freiburg",
@@ -1538,6 +1636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 247322150,
             "language": "Python",
             "last_commit": "2024-01-23T15:50:36Z",
             "owner": "atsiami",
@@ -1552,6 +1651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264808051,
             "language": "Python",
             "last_commit": "2020-10-13T06:19:07Z",
             "owner": "DTaoo",
@@ -1566,6 +1666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241025201,
             "language": "Python",
             "last_commit": "2021-01-10T19:26:52Z",
             "owner": "zfang399",
@@ -1580,6 +1681,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241331085,
             "language": "Python",
             "last_commit": "2023-02-17T19:07:48Z",
             "owner": "JuanFMontesinos",
@@ -1594,6 +1696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 511548271,
             "language": null,
             "last_commit": "2022-10-07T10:14:22Z",
             "owner": "visipedia",
@@ -1608,6 +1711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409447386,
             "language": "Python",
             "last_commit": "2021-09-28T18:46:05Z",
             "owner": "senthilps8",
@@ -1622,6 +1726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510994640,
             "language": "Python",
             "last_commit": "2023-03-04T01:30:36Z",
             "owner": "chuangg",
@@ -1633,127 +1738,126 @@
       "title": "Uncategorized Papers"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "MUSIC",
-          "description": "Audio-Visual Source Separation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-08-12T02:55:59Z",
-            "owner": "roudimit",
-            "repo": "MUSIC_dataset",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MUSIC-Synthetic dataset",
-          "description": "Category-balanced multi-source videos by artificially synthesizing solo videos from the MUSIC dataset, to facilitate the learning and evaluation of multiple-soundings-sources localization in the cocktail-party scenario.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-08-12T02:55:59Z",
-            "owner": "roudimit",
-            "repo": "MUSIC_dataset",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FAIR-Play",
-          "description": "1,871 video clips and their corresponding binaural audio clips recorded in a music room",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2021-09-21T18:17:37Z",
-            "owner": "facebookresearch",
-            "repo": "FAIR-Play",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VideoCC",
-          "description": "A dataset containing (video-URL, caption) pairs for training video-text machine learning models. It is created using an automatic pipeline starting from the Conceptual Captions Image-Captioning Dataset.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2022-12-05T19:36:27Z",
-            "owner": "google-research-datasets",
-            "repo": "videoCC-data",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ssw60",
-          "description": "A dataset for research on adiovisual fine-grained categorization. The dataset covers 60 species of birds that all occur in a specific geographic location: Sapsucker Woods, Ithaca, NY. It is comprised of images from existing datasets, and brand new, expert curated audio and video data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-10-07T10:14:22Z",
-            "owner": "visipedia",
-            "repo": "ssw60",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PACS",
-          "description": "A dataset designed to help create and evaluate a new generation of AI algorithms able to reason about physical commonsense using both audio and visual modalities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-20T07:29:07Z",
-            "owner": "samuelyu2002",
-            "repo": "PACS",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AudioSetZSL",
-          "description": "Audio-Visual Zero-shot Learning",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-12T07:03:50Z",
-            "owner": "krantiparida",
-            "repo": "AudioSetZSL",
-            "stars": 7
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MUSIC",
+              "description": "Audio-Visual Source Separation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144522997,
+                "language": null,
+                "last_commit": "2022-08-12T02:55:59Z",
+                "owner": "roudimit",
+                "repo": "MUSIC_dataset",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MUSIC-Synthetic dataset",
+              "description": "Category-balanced multi-source videos by artificially synthesizing solo videos from the MUSIC dataset, to facilitate the learning and evaluation of multiple-soundings-sources localization in the cocktail-party scenario.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144522997,
+                "language": null,
+                "last_commit": "2022-08-12T02:55:59Z",
+                "owner": "roudimit",
+                "repo": "MUSIC_dataset",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FAIR-Play",
+              "description": "1,871 video clips and their corresponding binaural audio clips recorded in a music room",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 173596914,
+                "language": null,
+                "last_commit": "2021-09-21T18:17:37Z",
+                "owner": "facebookresearch",
+                "repo": "FAIR-Play",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VideoCC",
+              "description": "A dataset containing (video-URL, caption) pairs for training video-text machine learning models. It is created using an automatic pipeline starting from the Conceptual Captions Image-Captioning Dataset.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 555538775,
+                "language": null,
+                "last_commit": "2022-12-05T19:36:27Z",
+                "owner": "google-research-datasets",
+                "repo": "videoCC-data",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ssw60",
+              "description": "A dataset for research on adiovisual fine-grained categorization. The dataset covers 60 species of birds that all occur in a specific geographic location: Sapsucker Woods, Ithaca, NY. It is comprised of images from existing datasets, and brand new, expert curated audio and video data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 511548271,
+                "language": null,
+                "last_commit": "2022-10-07T10:14:22Z",
+                "owner": "visipedia",
+                "repo": "ssw60",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PACS",
+              "description": "A dataset designed to help create and evaluate a new generation of AI algorithms able to reason about physical commonsense using both audio and visual modalities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471536187,
+                "language": "Python",
+                "last_commit": "2022-12-20T07:29:07Z",
+                "owner": "samuelyu2002",
+                "repo": "PACS",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AudioSetZSL",
+              "description": "Audio-Visual Zero-shot Learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210435934,
+                "language": "Python",
+                "last_commit": "2023-07-12T07:03:50Z",
+                "owner": "krantiparida",
+                "repo": "AudioSetZSL",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General Audio-Visual Tasks"
         }
       ],
-      "title": "General Audio-Visual Tasks"
-    },
-    {
-      "description": "License\n\nTo the extent possible under law, Kranti Kumar Parida has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "Licenses"
-    },
-    {
-      "description": "Please feel free to send me pull requests or email (kranti@cse.iitk.ac.in) to add links, correct wrong ones or if you find any broken links.",
-      "items": [],
-      "title": "Contributing"
+      "title": "Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:35:26.167Z",
+    "last_updated": "2026-08-19T11:35:13.234Z",
     "original_repository": "krantiparida/awesome-audio-visual",
     "original_repository_sha": "257f198638176358a3a49fc7bb00635fb71842ee",
     "enhanced_repository": "enhansome/enhansome-audio-visual",
