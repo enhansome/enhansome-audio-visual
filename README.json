@@ -477,7 +477,7 @@
             "last_commit": "2024-03-20T08:54:13Z",
             "owner": "YuanGongND",
             "repo": "cav-mae",
-            "stars": 292
+            "stars": 291
           }
         },
         {
@@ -774,7 +774,7 @@
             "last_commit": "2023-03-24T22:30:14Z",
             "owner": "pedro-morgado",
             "repo": "spatialaudiogen",
-            "stars": 118
+            "stars": 116
           }
         },
         {
@@ -1032,7 +1032,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14020
+            "stars": 14024
           }
         },
         {
@@ -1077,7 +1077,7 @@
             "last_commit": "2021-05-11T08:55:10Z",
             "owner": "Hangz-nju-cuhk",
             "repo": "Talking-Face-Generation-DAVS",
-            "stars": 813
+            "stars": 812
           }
         },
         {
@@ -1152,7 +1152,7 @@
             "last_commit": "2022-03-16T11:18:24Z",
             "owner": "jixinya",
             "repo": "EVP",
-            "stars": 314
+            "stars": 312
           }
         },
         {
@@ -1551,7 +1551,7 @@
             "last_commit": "2023-10-22T10:01:48Z",
             "owner": "Soldelli",
             "repo": "MAD",
-            "stars": 177
+            "stars": 176
           }
         },
         {
@@ -1857,7 +1857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:36:58.370Z",
+    "last_updated": "2026-08-21T11:36:12.924Z",
     "original_repository": "krantiparida/awesome-audio-visual",
     "original_repository_id": 178567785,
     "original_repository_sha": "257f198638176358a3a49fc7bb00635fb71842ee",
