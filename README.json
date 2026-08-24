@@ -381,7 +381,7 @@
             "last_commit": "2021-12-09T17:33:40Z",
             "owner": "ubc-vision",
             "repo": "TriBERT",
-            "stars": 14
+            "stars": 13
           }
         },
         {
@@ -1032,7 +1032,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14031
+            "stars": 14032
           }
         },
         {
@@ -1434,7 +1434,7 @@
             "last_commit": "2022-03-02T09:06:52Z",
             "owner": "google-research",
             "repo": "mint",
-            "stars": 564
+            "stars": 563
           }
         },
         {
@@ -1857,7 +1857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:30:45.296Z",
+    "last_updated": "2026-08-24T11:38:42.684Z",
     "original_repository": "krantiparida/awesome-audio-visual",
     "original_repository_id": 178567785,
     "original_repository_sha": "257f198638176358a3a49fc7bb00635fb71842ee",

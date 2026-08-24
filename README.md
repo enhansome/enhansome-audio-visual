@@ -1,6 +1,6 @@
 # Awesome Audio-Visual: with stars
 
-A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,511 | 🐛 91 | 📅 2024-05-17.
+A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,516 | 🐛 91 | 📅 2024-05-17.
 
 ## Contents
 
@@ -65,7 +65,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 * [Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation](https://arxiv.org/pdf/2104.02026.pdf) - Tian, Y., Hu, D., & Xu, C. (CVPR 2021) [\[code\]](https://github.com/YapengTian/CCOL-CVPR21) ⭐ 26 | 🐛 3 | 🌐 Python | 📅 2021-11-24
 * [Language-Guided Audio-Visual Source Separation via Trimodal Consistency](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Language-Guided_Audio-Visual_Source_Separation_via_Trimodal_Consistency_CVPR_2023_paper.pdf) - Tan, R., Ray, A., Burns, A., Plummer, B. A., Salamon, J., Nieto, O., ... & Saenko, K. (CVPR 2023) [\[code\]](https://github.com/rxtan2/AVSeT) ⭐ 18 | 🐛 4 | 🌐 Python | 📅 2023-10-02
 * [Move2Hear: Active Audio-Visual Source Separation](https://openaccess.thecvf.com/content/ICCV2021/papers/Majumder_Move2Hear_Active_Audio-Visual_Source_Separation_ICCV_2021_paper.pdf) - Majumder, S., Al-Halah, Z., & Grauman, K. (ICCV 2021) [\[code\]](https://github.com/SAGNIKMJR/move2hear-active-AV-separation) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-06-17 [\[project page\]](http://vision.cs.utexas.edu/projects/move2hear/)
-* [TriBERT: Full-body Human-centric Audio-visual Representation Learning for Visual Sound Separation](https://arxiv.org/pdf/2110.13412.pdf) - Rahman, T., Yang, M., & Sigal, L. (NeurIPS 2021) [\[code\]](https://github.com/ubc-vision/tribert) ⭐ 14 | 🐛 4 | 🌐 Python | 📅 2021-12-09
+* [TriBERT: Full-body Human-centric Audio-visual Representation Learning for Visual Sound Separation](https://arxiv.org/pdf/2110.13412.pdf) - Rahman, T., Yang, M., & Sigal, L. (NeurIPS 2021) [\[code\]](https://github.com/ubc-vision/tribert) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2021-12-09
 * [Active Audio-Visual Separation of Dynamic Sound Sources](https://arxiv.org/pdf/2202.00850.pdf) - Majumder, S. & Grauman, K. (ECCV 2022) [\[code\]](https://github.com/SAGNIKMJR/active-AV-dynamic-separation) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-06-16 [\[project page\]](http://vision.cs.utexas.edu/projects/active-av-dynamic-separation/) [\[code\]](https://github.com/SAGNIKMJR/active-av-dynamic-separation) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-06-16
 * [Filter-Recovery Network for Multi-Speaker Audio-Visual Speech Separation](https://openreview.net/pdf?id=fiB2RjmgwQ6) - Cheng, H., Liu, Z., Wu, W., & Wang, L. (ICLR 2023)
 * [AudioScopeV2: Audio-Visual Attention Architectures for Calibrated Open-Domain On-Screen Sound Separation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970360.pdf) - Tzinis, E., Wisdom, S., Remez, T., & Hershey, J. R. (ECCV 2022)
@@ -196,7 +196,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Faces/Speech
 
-* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,031 | 🐛 665 | 🌐 Python | 📅 2024-06-26
+* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,032 | 🐛 665 | 🌐 Python | 📅 2024-06-26
 * [Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction](https://openreview.net/pdf?id=Z1Qlm11uOM) - Shi, B., Hsu, W. N., Lakhotia, K., & Mohamed, A. (ICLR 2022) [\[code\]](https://github.com/facebookresearch/av_hubert) ⚠️ Archived
 * [Pose-controllable talking face generation by implicitly modularized audio-visual representation](https://arxiv.org/pdf/2104.11116.pdf) - Zhou, H., Sun, Y., Wu, W., Loy, C. C., Wang, X., & Liu, Z. (CVPR 2021) [\[project page\]](https://hangz-nju-cuhk.github.io/projects/PC-AVS) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS) ⭐ 958 | 🐛 49 | 🌐 Python | 📅 2024-01-06
 * [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation](https://arxiv.org/pdf/1807.07860.pdf) - Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang (AAAI 2019) [\[project page\]](https://liuziwei7.github.io/projects/TalkingFace) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS) ⭐ 812 | 🐛 42 | 🌐 Python | 📅 2021-05-11
@@ -363,4 +363,4 @@ Please feel free to send me [pull requests](https://github.com/krantiparida/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
