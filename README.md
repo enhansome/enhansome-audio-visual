@@ -1,6 +1,6 @@
 # Awesome Audio-Visual: with stars
 
-A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,516 | 🐛 91 | 📅 2024-05-17.
+A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,517 | 🐛 91 | 📅 2024-05-17.
 
 ## Contents
 
@@ -176,9 +176,9 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Deepfake/Robustness
 
+* [Can Audio-Visual Integration Strengthen Robustness Under Multimodal Attacks?](https://arxiv.org/pdf/2104.02000.pdf) - Tian, Y., & Xu, C. (CVPR 2021) [\[code\]](https://github.com/YapengTian/AV-Robustness-CVPR21) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2022-03-31
 * [Push-Pull: Characterizing the Adversarial Robustness for Audio-Visual Active Speaker Detection](https://arxiv.org/abs/2210.00753) - Chen, X., et al. (SLT 2022) [\[Demos\]](https://xjchen.tech/Push-Pull/index.html)
 * [Joint Audio-Visual Deepfake Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf) - Zhou, Y., & Lim, S. N. (ICCV 2021)
-* [Can Audio-Visual Integration Strengthen Robustness Under Multimodal Attacks?](https://arxiv.org/pdf/2104.02000.pdf) - Tian, Y., & Xu, C. (CVPR 2021) [\[code\]](https://github.com/YapengTian/AV-Robustness-CVPR21) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2022-03-31
 
 #### Lightweight Audio-Visual Model
 

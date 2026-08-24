@@ -956,6 +956,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Can Audio-Visual Integration Strengthen Robustness Under Multimodal Attacks?",
+          "description": "Tian, Y., & Xu, C. (CVPR 2021) [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352532323,
+            "language": "Python",
+            "last_commit": "2022-03-31T16:56:49Z",
+            "owner": "YapengTian",
+            "repo": "AV-Robustness-CVPR21",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Audio-Visual Deepfake/Robustness"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multimodal Transformer Distillation for Audio-Visual Synchronization",
+          "description": "Chen, X., et al. (ICASSP 2024) [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 546100773,
+            "language": "Python",
+            "last_commit": "2024-04-03T07:03:08Z",
+            "owner": "xjchenGit",
+            "repo": "MTDVocaLiST",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Lightweight Audio-Visual Model"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Semantic Audio-Visual Navigation",
           "description": "Chen, C., Al-Halah, Z., & Grauman, K. (CVPR 2021) [project page] [code]",
           "children": [],
@@ -1857,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:38:42.684Z",
+    "last_updated": "2026-08-24T14:21:02.848Z",
     "original_repository": "krantiparida/awesome-audio-visual",
     "original_repository_id": 178567785,
     "original_repository_sha": "257f198638176358a3a49fc7bb00635fb71842ee",
