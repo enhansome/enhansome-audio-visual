@@ -462,7 +462,7 @@
             "last_commit": "2021-09-13T19:26:53Z",
             "owner": "hche11",
             "repo": "VGGSound",
-            "stars": 358
+            "stars": 359
           }
         },
         {
@@ -1074,7 +1074,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14036
+            "stars": 14038
           }
         },
         {
@@ -1179,7 +1179,7 @@
             "last_commit": "2019-02-04T17:07:46Z",
             "owner": "a-nagrani",
             "repo": "VGGVox",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -1899,7 +1899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:37:38.322Z",
+    "last_updated": "2026-08-26T11:38:44.917Z",
     "original_repository": "krantiparida/awesome-audio-visual",
     "original_repository_id": 178567785,
     "original_repository_sha": "257f198638176358a3a49fc7bb00635fb71842ee",
