@@ -1074,7 +1074,7 @@
             "last_commit": "2024-06-26T12:51:53Z",
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14038
+            "stars": 14043
           }
         },
         {
@@ -1527,7 +1527,7 @@
             "last_commit": "2024-06-05T02:33:12Z",
             "owner": "researchmm",
             "repo": "MM-Diffusion",
-            "stars": 451
+            "stars": 452
           }
         },
         {
@@ -1796,7 +1796,7 @@
                 "last_commit": "2022-08-12T02:55:59Z",
                 "owner": "roudimit",
                 "repo": "MUSIC_dataset",
-                "stars": 139
+                "stars": 140
               }
             },
             {
@@ -1811,7 +1811,7 @@
                 "last_commit": "2022-08-12T02:55:59Z",
                 "owner": "roudimit",
                 "repo": "MUSIC_dataset",
-                "stars": 139
+                "stars": 140
               }
             },
             {
@@ -1899,9 +1899,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:38:44.917Z",
-    "original_repository": "krantiparida/awesome-audio-visual",
-    "original_repository_id": 178567785,
+    "last_updated": "2026-08-27T11:20:08.411Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 178567785,
+      "language": null,
+      "last_commit": "2024-01-30T14:39:52Z",
+      "owner": "krantiparida",
+      "repo": "awesome-audio-visual",
+      "stars": 777
+    },
     "original_repository_sha": "257f198638176358a3a49fc7bb00635fb71842ee",
     "enhanced_repository": "enhansome/enhansome-audio-visual",
     "enhanced_repository_description": null,
