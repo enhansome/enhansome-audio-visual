@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audio-Visual Event Localization in Unconstrained Videos, ECCV 2018",
+            "homepage": "https://sites.google.com/view/audiovisualresearch",
             "id": 139663560,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-03T14:18:44Z",
+            "open_issues": 9,
             "owner": "YapengTian",
             "repo": "AVE-ECCV18",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "audio-visual-events",
+              "audio-visual-learning",
+              "ave-dataset",
+              "eccv-2018"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo aims to perform sound localization in complex audiovisual scenes, where there multiple objects making sounds.",
+            "homepage": null,
             "id": 246795152,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-18T13:50:57Z",
+            "open_issues": 8,
             "owner": "shvdiwnkozbw",
             "repo": "Multi-Source-Sound-Localization",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -42,12 +57,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Localizing Visual Sounds the Hard Way",
+            "homepage": null,
             "id": 355235104,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-06T19:56:23Z",
+            "open_issues": 11,
             "owner": "hche11",
             "repo": "Localizing-Visual-Sounds-the-Hard-Way",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -58,12 +78,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Discriminative Sounding Objects Localization (NeurIPS 2020)",
+            "homepage": null,
             "id": 248919206,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-19T12:09:52Z",
+            "open_issues": 10,
             "owner": "DTaoo",
             "repo": "Discriminative-Sounding-Objects-Localization",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -74,12 +99,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation for AVGN",
+            "homepage": null,
             "id": 618161998,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-24T00:25:22Z",
+            "open_issues": 5,
             "owner": "stoneMo",
             "repo": "AVGN",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "audio-visual-correspondence",
+              "audio-visual-learning",
+              "visual-sound-localization",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -90,12 +125,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[2021 CVPR] Positive Sample Propagation along the Audio-Visual Event Line",
+            "homepage": null,
             "id": 354195497,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-05T14:48:59Z",
+            "open_issues": 1,
             "owner": "jasongief",
             "repo": "PSP_CVPR_2021",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "audio-visual-events",
+              "audio-visual-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -106,12 +149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cross modal background suppression for audio-visual event localization",
+            "homepage": null,
             "id": 470201948,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-18T08:50:14Z",
+            "open_issues": 2,
             "owner": "marmot-xy",
             "repo": "CMBS",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -122,12 +170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] Official implementation of our paper - Learning Audio-Visual Source Localization via False Negative Aware Contrastive Learning",
+            "homepage": null,
             "id": 617828838,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-10T13:05:07Z",
+            "open_issues": 1,
             "owner": "OpenNLPLab",
             "repo": "FNAC_AVL",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -138,12 +191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] Egocentric Audio-Visual Object Localization",
+            "homepage": null,
             "id": 611455432,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-06T03:05:07Z",
+            "open_issues": 5,
             "owner": "WikiChao",
             "repo": "Ego-AV-Loc",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -154,12 +212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wnet: Audio-Guided Video Object Segmentation via Wavelet-Based Cross-Modal Denoising Networks",
+            "homepage": null,
             "id": 475526772,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-06T14:55:32Z",
+            "open_issues": 1,
             "owner": "asudahkzj",
             "repo": "Wnet",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -170,12 +233,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CVPR 2021 paper Exploring Heterogeneous Clues for Weakly-Supervised Audio-Visual Video Parsing",
+            "homepage": null,
             "id": 352921663,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-29T04:20:09Z",
+            "open_issues": 2,
             "owner": "Yu-Wu",
             "repo": "Modaily-Aware-Audio-Visual-Video-Parsing",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "audio-visual",
+              "cvpr",
+              "cvpr2021"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -186,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 494584829,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-20T03:17:16Z",
+            "open_issues": 0,
             "owner": "hxixixh",
             "repo": "mix-and-localize",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -202,12 +279,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Codebase of \"A Closer Look at Weakly-Supervised Audio-Visual Source Localization\" (NeurIPS 2022)",
+            "homepage": null,
             "id": 521393686,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-06T22:31:57Z",
+            "open_issues": 4,
             "owner": "stoneMo",
             "repo": "SLAVC",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "audio-visual-correspondence",
+              "audio-visual-learning",
+              "overfitting",
+              "self-supervised-learning",
+              "silence",
+              "visual-sound-localization"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -218,12 +307,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation for MGN",
+            "homepage": null,
             "id": 494383504,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-22T17:07:38Z",
+            "open_issues": 1,
             "owner": "stoneMo",
             "repo": "MGN",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "audio-visual-learning",
+              "audio-visual-parsing",
+              "multimodal-learning",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -234,12 +333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 319977112,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-15T20:38:48Z",
+            "open_issues": 3,
             "owner": "W-zx-Y",
             "repo": "Binaural-Audio-Visual-Localization",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -256,12 +360,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codebase for ECCV18 \"The Sound of Pixels\"",
+            "homepage": "http://sound-of-pixels.csail.mit.edu",
             "id": 158138352,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-25T06:26:41Z",
+            "open_issues": 11,
             "owner": "hangzhaomit",
             "repo": "Sound-of-Pixels",
-            "stars": 393
+            "stars": 393,
+            "topics": [
+              "computer-vision",
+              "cross-modality",
+              "self-supervised-learning",
+              "sound-separation"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -272,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Audio-Visual Speech Separation with Cross-Modal Consistency ",
+            "homepage": null,
             "id": 320110115,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-25T00:43:02Z",
+            "open_issues": 18,
             "owner": "facebookresearch",
             "repo": "VisualVoice",
-            "stars": 250
+            "stars": 250,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -288,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] iQuery: Instruments as Queries for Audio-Visual Sound Separation",
+            "homepage": "https://jiabenchen.github.io/iQuery/",
             "id": 571634409,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-25T06:02:12Z",
+            "open_issues": 3,
             "owner": "JiabenChen",
             "repo": "iQuery",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -304,12 +428,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codebase for the paper \"Sep-Stereo: Visually Guided Stereophonic Audio Generation by Associating Source Separation\" (ECCV2020)",
+            "homepage": "https://github.com/SheldonTsui/SepStereo_ECCV2020",
             "id": 279797462,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2020-10-20T08:01:36Z",
+            "open_issues": 1,
             "owner": "SheldonTsui",
             "repo": "SepStereo_ECCV2020",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "sep-stereo"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -320,12 +451,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning to Separate Object Sounds by Watching Unlabeled Video (ECCV 2018)",
+            "homepage": null,
             "id": 147401202,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-09-24T18:20:05Z",
+            "open_issues": 3,
             "owner": "rhgao",
             "repo": "Deep-MIML-Network",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "audio",
+              "miml",
+              "multi-instance",
+              "multi-instance-multi-label-learning",
+              "multi-label-learning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -336,12 +479,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VoViT: Low Latency Graph-based Audio-Visual VoiceSeparation Transformer",
+            "homepage": "https://ipcv.github.io/VoViT/",
             "id": 466887007,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-18T20:43:44Z",
+            "open_issues": 4,
             "owner": "JuanFMontesinos",
             "repo": "VoViT",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "audio",
+              "graph",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -352,12 +504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation",
+            "homepage": null,
             "id": 352473783,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-24T02:21:56Z",
+            "open_issues": 3,
             "owner": "YapengTian",
             "repo": "CCOL-CVPR21",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -368,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 593329222,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-02T18:14:25Z",
+            "open_issues": 4,
             "owner": "rxtan2",
             "repo": "AVSeT",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -384,12 +546,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and datasets for 'Move2Hear: Active Audio-Visual Source Separation' (ICCV 2021)",
+            "homepage": null,
             "id": 413171867,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-17T01:30:35Z",
+            "open_issues": 0,
             "owner": "SAGNIKMJR",
             "repo": "move2hear-active-AV-separation",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "active-learning",
+              "audio-separation",
+              "audio-visual",
+              "multimodal-deep-learning",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -400,12 +573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code Release for the paper \"TriBERT: Full-body Human-centric Audio-visual Representation Learning for Visual Sound Separation\" in NeurIPS 2021",
+            "homepage": null,
             "id": 419121777,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-09T17:33:40Z",
+            "open_issues": 4,
             "owner": "ubc-vision",
             "repo": "TriBERT",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -416,12 +594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and datasets for 'Active Audio-Visual Separation of Dynamic Sound Sources' (ECCV 2022)",
+            "homepage": null,
             "id": 515055524,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-16T06:17:58Z",
+            "open_issues": 1,
             "owner": "SAGNIKMJR",
             "repo": "active-AV-dynamic-separation",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -438,12 +621,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenL3: Open-source deep audio and image embeddings",
+            "homepage": null,
             "id": 153459506,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-06-17T10:56:46Z",
+            "open_issues": 26,
             "owner": "marl",
             "repo": "openl3",
-            "stars": 604
+            "stars": 604,
+            "topics": [
+              "audio",
+              "deep-learning",
+              "embedding",
+              "embedding-models",
+              "image",
+              "image-embeddings",
+              "machine-listening"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -454,12 +650,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SoundNet: Learning Sound Representations from Unlabeled Video. NIPS 2016",
+            "homepage": "http://projects.csail.mit.edu/soundnet/",
             "id": 70248555,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-10-07T03:20:20Z",
+            "open_issues": 14,
             "owner": "cvondrick",
             "repo": "soundnet",
-            "stars": 466
+            "stars": 466,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "sound"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -470,12 +675,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] & [IJCV 2024] Official implementation of the paper: Audio-Visual Segmentation (with Semantics)",
+            "homepage": null,
             "id": 511917351,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-18T02:12:34Z",
+            "open_issues": 4,
             "owner": "OpenNLPLab",
             "repo": "AVSBench",
-            "stars": 421
+            "stars": 421,
+            "topics": [
+              "audio-visual-learning",
+              "audio-visual-segmentation",
+              "multi-modal-segmentation",
+              "segmentation-benchmark"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -486,12 +701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VGGSound: A Large-scale Audio-Visual Dataset",
+            "homepage": "http://www.robots.ox.ac.uk/~vgg/data/vggsound/",
             "id": 265020108,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-13T19:26:53Z",
+            "open_issues": 12,
             "owner": "hche11",
             "repo": "VGGSound",
-            "stars": 359
+            "stars": 359,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -502,12 +722,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and Pretrained Models for ICLR 2023 Paper \"Contrastive Audio-Visual Masked Autoencoder\".",
+            "homepage": null,
             "id": 616566843,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-03-20T08:54:13Z",
+            "open_issues": 17,
             "owner": "YuanGongND",
             "repo": "cav-mae",
-            "stars": 291
+            "stars": 291,
+            "topics": [
+              "audio",
+              "audio-processing",
+              "computer-vision",
+              "multimodal",
+              "multimodal-deep-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -518,12 +749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper: Audio-Visual Scene Analysis with Self-Supervised Multisensory Features",
+            "homepage": "http://andrewowens.com/multisensory/",
             "id": 129283202,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-07-17T06:57:17Z",
+            "open_issues": 34,
             "owner": "andrewowens",
             "repo": "multisensory",
-            "stars": 225
+            "stars": 225,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -534,12 +770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for \"MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound\"",
+            "homepage": null,
             "id": 442903710,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-01T18:21:15Z",
+            "open_issues": 11,
             "owner": "rowanz",
             "repo": "merlot_reserve",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -550,12 +791,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Implementation on Paper [CVPR2021]Distilling Audio-Visual Knowledge by Compositional Contrastive Learning",
+            "homepage": null,
             "id": 352745261,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-07T14:51:46Z",
+            "open_issues": 2,
             "owner": "yanbeic",
             "repo": "CCL",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "audio-teacher-models",
+              "audio-visual-learning",
+              "compositional-contrastive-learning",
+              "contrastive-learning",
+              "cvpr2021",
+              "distillation",
+              "multi-modal-distillation",
+              "pytorch",
+              "video-recognition"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -566,12 +822,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACAV100M: Automatic Curation of Large-Scale Datasets for Audio-Visual Video Representation Learning. In ICCV, 2021.",
+            "homepage": null,
             "id": 386173826,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-11-18T08:08:08Z",
+            "open_issues": 2,
             "owner": "sangho-vision",
             "repo": "acav100m",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -582,12 +845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code for our CVPR 2022 paper on \"Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language\"",
+            "homepage": null,
             "id": 466693866,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-29T10:26:47Z",
+            "open_issues": 1,
             "owner": "ExplainableML",
             "repo": "AVCA-GZSL",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -598,12 +866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code for our CVPR 2022 paper on \"Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language\"",
+            "homepage": null,
             "id": 466693866,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-29T10:26:47Z",
+            "open_issues": 1,
             "owner": "ExplainableML",
             "repo": "AVCA-GZSL",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -614,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for <Cross-Task Transfer for Geotagged Audiovisual Aerial Scene Recognition> (ECCV 2020)",
+            "homepage": null,
             "id": 264808051,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-13T06:19:07Z",
+            "open_issues": 3,
             "owner": "DTaoo",
             "repo": "Multimodal-Aerial-Scene-Recognition",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -630,12 +908,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] Joint-Modal Label Denoising for Weakly-Supervised Audio-Visual Video Parsing",
+            "homepage": null,
             "id": 512617755,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-15T08:55:05Z",
+            "open_issues": 1,
             "owner": "MCG-NJU",
             "repo": "JoMoLD",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "audio-visual"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -646,12 +931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code for our ECCV 2022 paper \"Temporal and cross-modal attention for audio-visual zero-shot learning\"",
+            "homepage": null,
             "id": 514377209,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-12T08:10:29Z",
+            "open_issues": 4,
             "owner": "ExplainableML",
             "repo": "TCAF-GZSL",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -662,12 +952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-model active contrastive coding",
+            "homepage": null,
             "id": 348567598,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-03-17T03:58:19Z",
+            "open_issues": 1,
             "owner": "yunyikristy",
             "repo": "CM-ACC",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -678,12 +973,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper: Audio-Visual Model Distillation Using Acoustic Images",
+            "homepage": null,
             "id": 180631549,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-24T22:30:32Z",
+            "open_issues": 1,
             "owner": "afperezm",
             "repo": "acoustic-images-distillation",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "sound"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -694,12 +998,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras Implementation of \"Look, Listen and Learn\" Model",
+            "homepage": null,
             "id": 110094787,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2017-11-14T08:45:30Z",
+            "open_issues": 2,
             "owner": "Kajiyu",
             "repo": "LLLNet",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -710,12 +1019,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation for MGN",
+            "homepage": null,
             "id": 494383504,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-22T17:07:38Z",
+            "open_issues": 1,
             "owner": "stoneMo",
             "repo": "MGN",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "audio-visual-learning",
+              "audio-visual-parsing",
+              "multimodal-learning",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -726,12 +1045,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-supervised algorithm for learning representations from ego-centric video data. Code is tested on EPIC-Kitchens-100 and Ego4D in PyTorch. (NeurIPS 2022)",
+            "homepage": null,
             "id": 516128143,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-23T03:08:53Z",
+            "open_issues": 5,
             "owner": "HimangiM",
             "repo": "RepLAI",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "pytorch",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -742,12 +1069,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Leveraging Acoustic Images for Effective Self-Supervised Audio Representation Learning\" ECCV 2020",
+            "homepage": null,
             "id": 277752133,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-06T12:13:37Z",
+            "open_issues": 0,
             "owner": "IIT-PAVIS",
             "repo": "acoustic-images-self-supervision",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -758,12 +1090,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset for Audio-Visual ZSL",
+            "homepage": "https://www.cse.iitk.ac.in/users/kranti/avzsl.html",
             "id": 210435934,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-12T07:03:50Z",
+            "open_issues": 1,
             "owner": "krantiparida",
             "repo": "AudioSetZSL",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -780,12 +1117,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of \"EPIC-Fusion: Audio-Visual Temporal Binding for Egocentric Action Recognition, ICCV, 2019\" in PyTorch",
+            "homepage": null,
             "id": 200404842,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-01-25T11:59:46Z",
+            "open_issues": 5,
             "owner": "ekazakos",
             "repo": "temporal-binding-network",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "action-recognition",
+              "audio-visual",
+              "convolutional-networks",
+              "egocentric",
+              "fusion"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -796,12 +1144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR2022",
+            "homepage": "https://xiaobai1217.github.io/DomainAdaptation/",
             "id": 385232630,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-27T15:40:48Z",
+            "open_issues": 1,
             "owner": "xiaobai1217",
             "repo": "DomainAdaptation",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -818,12 +1171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial Audio Generation",
+            "homepage": "https://pedro-morgado.github.io/spatialaudiogen/",
             "id": 147755865,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-24T22:30:14Z",
+            "open_issues": 4,
             "owner": "pedro-morgado",
             "repo": "spatialaudiogen",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -834,12 +1192,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "2.5D visual sound dataset",
+            "homepage": null,
             "id": 173596914,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2021-09-21T18:17:37Z",
+            "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "FAIR-Play",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -850,12 +1213,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codebase for the paper \"Visually Informed Binaural Audio Generation without Binaural Audios\" (CVPR 2021)",
+            "homepage": null,
             "id": 349606291,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2021-07-08T05:17:31Z",
+            "open_issues": 2,
             "owner": "SheldonTsui",
             "repo": "PseudoBinaural_CVPR2021",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "pseudobinaural"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -866,12 +1236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 346121811,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-29T17:19:46Z",
+            "open_issues": 1,
             "owner": "krantiparida",
             "repo": "beyond-image-to-depth",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -882,12 +1257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 305506536,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-06-14T13:56:17Z",
+            "open_issues": 3,
             "owner": "pedro-morgado",
             "repo": "AVSpatialAlignment",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -898,12 +1278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and datasets for 'Few-Shot Audio-Visual Learning of Environment Acoustics' (NeurIPS 2022)",
+            "homepage": null,
             "id": 570744614,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-16T06:23:35Z",
+            "open_issues": 1,
             "owner": "SAGNIKMJR",
             "repo": "few-shot-rir",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -914,12 +1299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of synchronized binaural echos and depth images of office scenes. ",
+            "homepage": null,
             "id": 243115617,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-19T16:22:06Z",
+            "open_issues": 3,
             "owner": "SaschaHornauer",
             "repo": "Batvision",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -936,12 +1326,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for \"Learning Neural Acoustic Fields\" (NeurIPS 2022)",
+            "homepage": null,
             "id": 463999907,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-20T19:07:16Z",
+            "open_issues": 0,
             "owner": "aluo-x",
             "repo": "Learning_Neural_Acoustic_Fields",
-            "stars": 169
+            "stars": 169,
+            "topics": [
+              "3d-audio",
+              "acoustic-model",
+              "acoustic-models",
+              "acoustics",
+              "implicit-functions",
+              "impulse-response",
+              "neural-field",
+              "neural-fields",
+              "pytorch",
+              "reverberation",
+              "spatial-audio",
+              "spatial-audio-reproduction"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -952,12 +1360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021] Image2Reverb: Cross-Modal Reverb Impulse Response Synthesis.",
+            "homepage": "https://web.media.mit.edu/~nsingh1/image2reverb/",
             "id": 300330687,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-12T17:28:39Z",
+            "open_issues": 6,
             "owner": "nikhilsinghmus",
             "repo": "image2reverb",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -968,12 +1381,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Repo for Visual Acoustic Matching, CVPR 2022",
+            "homepage": null,
             "id": 501521651,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-28T04:30:26Z",
+            "open_issues": 5,
             "owner": "facebookresearch",
             "repo": "visual-acoustic-matching",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -984,12 +1402,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for Novel View Acoustic Synthesis paper",
+            "homepage": null,
             "id": 655357263,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-14T15:16:13Z",
+            "open_issues": 1,
             "owner": "facebookresearch",
             "repo": "novel-view-acoustic-synthesis",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1000,12 +1423,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for paper Learning Audio-Visual Dereverberation",
+            "homepage": null,
             "id": 502809309,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-10T02:04:01Z",
+            "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "learning-audio-visual-dereverberation",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -1022,12 +1450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Can audio-visual integration strengthen robustness under multimodal attacks?",
+            "homepage": null,
             "id": 352532323,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-31T16:56:49Z",
+            "open_issues": 0,
             "owner": "YapengTian",
             "repo": "AV-Robustness-CVPR21",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -1044,12 +1477,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for the paper Multimodal Transformer Distillation for Audio-Visual Synchronization (ICASSP 2024).",
+            "homepage": null,
             "id": 546100773,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-03T07:03:08Z",
+            "open_issues": 0,
             "owner": "xjchenGit",
             "repo": "MTDVocaLiST",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "audio-visual-synchronisation",
+              "knowledge-distillation"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -1066,12 +1507,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A first-of-its-kind acoustic simulation platform for audio-visual embodied AI research. It supports training and evaluating multiple tasks and applications.",
+            "homepage": "https://soundspaces.org",
             "id": 282289621,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2023-09-29T03:24:35Z",
+            "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "sound-spaces",
-            "stars": 470
+            "stars": 470,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1082,12 +1528,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A first-of-its-kind acoustic simulation platform for audio-visual embodied AI research. It supports training and evaluating multiple tasks and applications.",
+            "homepage": "https://soundspaces.org",
             "id": 282289621,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2023-09-29T03:24:35Z",
+            "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "sound-spaces",
-            "stars": 470
+            "stars": 470,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1098,12 +1549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 185203947,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-17T23:48:15Z",
+            "open_issues": 0,
             "owner": "vdean",
             "repo": "audio-curiosity",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1114,12 +1570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SAAVN Code release for paper \"Sound Adversarial Audio-Visual Navigation,ICLR2022\" (In PyTorch)",
+            "homepage": null,
             "id": 455447434,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-09T02:32:42Z",
+            "open_issues": 2,
             "owner": "yyf17",
             "repo": "SAAVN",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -1136,12 +1597,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+            "homepage": "https://sadtalker.github.io/",
             "id": 569518584,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-26T12:51:53Z",
+            "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14049
+            "stars": 14049,
+            "topics": [
+              "audio-driven-talking-face",
+              "cvpr2023",
+              "deep-fake",
+              "deep-fakes",
+              "image-animation",
+              "talking-face",
+              "talking-face-generation",
+              "talking-head",
+              "talking-heads"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1152,12 +1628,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A self-supervised learning framework for audio-visual speech",
+            "homepage": null,
             "id": 441139447,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-07T00:17:57Z",
+            "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "av_hubert",
-            "stars": 996
+            "stars": 996,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1168,12 +1649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation (CVPR 2021)",
+            "homepage": null,
             "id": 351362064,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2024-01-06T10:21:53Z",
+            "open_issues": 49,
             "owner": "Hangz-nju-cuhk",
             "repo": "Talking-Face_PC-AVS",
-            "stars": 958
+            "stars": 958,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1184,12 +1670,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Talking Face Generation by Adversarially Disentangled Audio-Visual Representation (AAAI 2019)",
+            "homepage": null,
             "id": 141694035,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-11T08:55:10Z",
+            "open_issues": 42,
             "owner": "Hangz-nju-cuhk",
             "repo": "Talking-Face-Generation-DAVS",
-            "stars": 813
+            "stars": 813,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1200,12 +1691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the repository containing codes for our CVPR, 2020 paper titled \"Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis\"",
+            "homepage": null,
             "id": 254537651,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-06T21:43:10Z",
+            "open_issues": 20,
             "owner": "Rudrabha",
             "repo": "Lip2Wav",
-            "stars": 714
+            "stars": 714,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1216,12 +1712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2023] The implementation for \"DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation\"",
+            "homepage": null,
             "id": 587157225,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-15T12:46:56Z",
+            "open_issues": 35,
             "owner": "sstzal",
             "repo": "DiffTalk",
-            "stars": 472
+            "stars": 472,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1232,12 +1733,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A first-of-its-kind acoustic simulation platform for audio-visual embodied AI research. It supports training and evaluating multiple tasks and applications.",
+            "homepage": "https://soundspaces.org",
             "id": 282289621,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2023-09-29T03:24:35Z",
+            "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "sound-spaces",
-            "stars": 470
+            "stars": 470,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1248,12 +1754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VGGVox models for Speaker Identification and Verification trained on the VoxCeleb (1 & 2) datasets ",
+            "homepage": null,
             "id": 106429630,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2019-02-04T17:07:46Z",
+            "open_issues": 20,
             "owner": "a-nagrani",
             "repo": "VGGVox",
-            "stars": 403
+            "stars": 403,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1264,12 +1775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper 'Audio-Driven Emotional Video Portraits'.",
+            "homepage": null,
             "id": 355809824,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-03-16T11:18:24Z",
+            "open_issues": 26,
             "owner": "jixinya",
             "repo": "EVP",
-            "stars": 312
+            "stars": 312,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1280,12 +1796,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'2023] Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation",
+            "homepage": null,
             "id": 612845360,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-18T08:59:16Z",
+            "open_issues": 0,
             "owner": "Advocate99",
             "repo": "DiffGesture",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "aigc",
+              "animation",
+              "audio-driven",
+              "cvpr2023",
+              "diffusion-models",
+              "gesture-generation"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1296,12 +1824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR 2019",
+            "homepage": null,
             "id": 160437340,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-24T22:45:35Z",
+            "open_issues": 26,
             "owner": "lelechen63",
             "repo": "ATVGnet",
-            "stars": 259
+            "stars": 259,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1312,12 +1845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch code for ECCV 2018 paper",
+            "homepage": null,
             "id": 146717113,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-02-26T09:23:05Z",
+            "open_issues": 5,
             "owner": "oawiles",
             "repo": "X2Face",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1328,12 +1866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022 Oral] Code for \"Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation\"",
+            "homepage": null,
             "id": 449183219,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-21T11:34:14Z",
+            "open_issues": 8,
             "owner": "alvinliu0",
             "repo": "SSP-NeRF",
-            "stars": 228
+            "stars": 228,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1344,12 +1887,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2019] Face Reconstruction from Voice using Generative Adversarial Networks",
+            "homepage": "https://arxiv.org/abs/1905.10604",
             "id": 190936593,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-01-05T14:55:04Z",
+            "open_issues": 5,
             "owner": "cmu-mlsp",
             "repo": "reconstructing_faces_from_voices",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "gan",
+              "neurips-2019",
+              "speech",
+              "voice2face"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1360,12 +1913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audio2Motion Official implementation for Audio2Motion: Generating Diverse Gestures from Speech with Conditional Variational Autoencoders.",
+            "homepage": null,
             "id": 393409701,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-01T23:52:33Z",
+            "open_issues": 15,
             "owner": "JingLi513",
             "repo": "Audio2Gestures",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1376,12 +1934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Audio-Driven Co-Speech Gesture Video Generation\" (NeurIPS 2022, Spotlight Presentation).",
+            "homepage": "https://alvinliu0.github.io/projects/ANGIE",
             "id": 540898750,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-05T18:51:13Z",
+            "open_issues": 3,
             "owner": "alvinliu0",
             "repo": "ANGIE",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1392,12 +1955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of RAVEn (ICLR 2023) and BRAVEn (ICASSP 2024)",
+            "homepage": null,
             "id": 608333386,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-27T00:06:14Z",
+            "open_issues": 5,
             "owner": "ahaliassos",
             "repo": "raven",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1408,12 +1976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "You Said That?: Synthesising Talking Faces from Audio",
+            "homepage": null,
             "id": 130454193,
             "language": "Matlab",
+            "license": null,
             "last_commit": "2018-04-29T14:05:54Z",
+            "open_issues": 5,
             "owner": "joonson",
             "repo": "yousaidthat",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1424,12 +1997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 250007340,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-20T14:41:22Z",
+            "open_issues": 2,
             "owner": "gmeishvili",
             "repo": "ear_for_face_super_resolution",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1440,12 +2018,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audio-Visual Corruption Modeling of our paper \"Watch or Listen: Robust Audio-Visual Speech Recognition with Visual Corruption Modeling and Reliability Scoring\" in CVPR23",
+            "homepage": null,
             "id": 614162558,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-20T22:33:17Z",
+            "open_issues": 1,
             "owner": "joannahong",
             "repo": "AV-RelScore",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "audio-visual",
+              "avsr",
+              "multimodal"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1456,12 +2043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SVHF-Net for Cross-modal binary matching",
+            "homepage": "http://www.robots.ox.ac.uk/~vgg/research/CMBiometrics/",
             "id": 134904932,
             "language": "Matlab",
+            "license": null,
             "last_commit": "2018-08-22T17:24:23Z",
+            "open_issues": 4,
             "owner": "a-nagrani",
             "repo": "SVHF-Net",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1472,12 +2064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CVPR 2022 paper \"Audio-driven Neural Gesture Reenactment with Video Motion Graphs\"",
+            "homepage": null,
             "id": 474845386,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-28T04:31:36Z",
+            "open_issues": 6,
             "owner": "yzhou359",
             "repo": "vid-reenact",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1488,12 +2085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 368105887,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-08T08:58:26Z",
+            "open_issues": 1,
             "owner": "KID-7391",
             "repo": "seeking-the-shape-of-sound",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1504,12 +2106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GFGE",
+            "homepage": null,
             "id": 511105019,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-07T05:28:11Z",
+            "open_issues": 2,
             "owner": "yesheng-THU",
             "repo": "GFGE",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -1526,12 +2133,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MUSIC-AVQA, CVPR2022 (ORAL)",
+            "homepage": null,
             "id": 471220268,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-30T09:35:28Z",
+            "open_issues": 5,
             "owner": "GeWu-Lab",
             "repo": "MUSIC-AVQA",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1542,12 +2154,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and dataset release for \"PACS: A Dataset for Physical Audiovisual CommonSense Reasoning\" (ECCV 2022)",
+            "homepage": null,
             "id": 471536187,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-20T07:29:07Z",
+            "open_issues": 0,
             "owner": "samuelyu2002",
             "repo": "PACS",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "audiovisual",
+              "commonsense-reasoning",
+              "dataset",
+              "multimodal",
+              "pytorch",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -1564,12 +2188,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Multi-modal Content Creation Model Training Infrastructure including the FACT model (AI Choreographer) implementation. ",
+            "homepage": null,
             "id": 368958866,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-02T09:06:52Z",
+            "open_issues": 51,
             "owner": "google-research",
             "repo": "mint",
-            "stars": 563
+            "stars": 563,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1580,12 +2209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for the paper \"Cascade Attention Guided Residue GAN for Cross-Modal Translation\"",
+            "homepage": null,
             "id": 195211249,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-31T04:28:41Z",
+            "open_issues": 0,
             "owner": "tuffr5",
             "repo": "CAR-GAN",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1596,12 +2230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 178062436,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-21T16:52:32Z",
+            "open_issues": 2,
             "owner": "yunyikristy",
             "repo": "skipNet",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -1618,12 +2257,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'23] MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation",
+            "homepage": null,
             "id": 576799754,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-05T02:33:12Z",
+            "open_issues": 17,
             "owner": "researchmm",
             "repo": "MM-Diffusion",
-            "stars": 452
+            "stars": 452,
+            "topics": [
+              "audio-generation",
+              "content-creation",
+              "diffusion-models",
+              "multi-modality",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1634,12 +2284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sound-guided Semantic Image Manipulation - Official Pytorch Code (CVPR 2022)",
+            "homepage": null,
             "id": 479014300,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-14T13:26:04Z",
+            "open_issues": 6,
             "owner": "kuai-lab",
             "repo": "sound-guided-semantic-image-manipulation",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1650,12 +2305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "multimodal video-audio-text generation and retrieval between every pair of modalities on the MUGEN dataset. The repo. contains the training, evaluation and inference codes for these baselines. ",
+            "homepage": null,
             "id": 481251859,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-01T04:01:08Z",
+            "open_issues": 0,
             "owner": "mugen-org",
             "repo": "MUGEN_baseline",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1666,12 +2326,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codebase for the Paper: Learning Visual Styles from Audio-Visual Associations (ECCV 2022, in PyTorch)",
+            "homepage": "https://tinglok.netlify.app/files/avstyle",
             "id": 512780960,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-26T20:53:23Z",
+            "open_issues": 1,
             "owner": "Tinglok",
             "repo": "avstyle",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "audio-visual-learning",
+              "computer-vision",
+              "gans",
+              "generative-adversarial-network",
+              "image-generation",
+              "image-manipulation"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -1688,12 +2360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions",
+            "homepage": null,
             "id": 435439859,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-22T10:01:48Z",
+            "open_issues": 3,
             "owner": "Soldelli",
             "repo": "MAD",
-            "stars": 176
+            "stars": 176,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1704,12 +2381,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Audio To Body Dynamics, CVPR 2018",
+            "homepage": null,
             "id": 154903769,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-10-30T20:07:58Z",
+            "open_issues": 7,
             "owner": "facebookarchive",
             "repo": "Audio2BodyDynamics",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1720,12 +2402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023 (Highlight)] Self-Supervised Video Forensics by Audio-Visual Anomaly Detection",
+            "homepage": "https://cfeng16.github.io/audio-visual-forensics/",
             "id": 572758615,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-12T22:25:59Z",
+            "open_issues": 5,
             "owner": "cfeng16",
             "repo": "audio-visual-forensics",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1736,12 +2423,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "VideoCC is a dataset containing (video-URL, caption) pairs for training video-text machine learning models. It is created using an automatic pipeline starting from the Conceptual Captions Image-Captioning Dataset.",
+            "homepage": null,
             "id": 555538775,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2022-12-05T19:36:27Z",
+            "open_issues": 2,
             "owner": "google-research-datasets",
             "repo": "videoCC-data",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1752,12 +2444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Vision-Infused Deep Audio Inpainting (ICCV 2019)",
+            "homepage": null,
             "id": 202094360,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-25T09:00:00Z",
+            "open_issues": 3,
             "owner": "Hangz-nju-cuhk",
             "repo": "Vision-Infused-Audio-Inpainter-VIAI",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1768,12 +2465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for training MM-DistillNet for multimodal knowledge distillation. http://rl.uni-freiburg.de/research/multimodal-distill",
+            "homepage": null,
             "id": 344192128,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-17T21:35:48Z",
+            "open_issues": 12,
             "owner": "robot-learning-freiburg",
             "repo": "MM-DistillNet",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1784,12 +2486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatio-Temporal AudioVisual Saliency Network ",
+            "homepage": null,
             "id": 247322150,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-23T15:50:36Z",
+            "open_issues": 0,
             "owner": "atsiami",
             "repo": "STAViS",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1800,12 +2507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for <Cross-Task Transfer for Geotagged Audiovisual Aerial Scene Recognition> (ECCV 2020)",
+            "homepage": null,
             "id": 264808051,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-13T06:19:07Z",
+            "open_issues": 3,
             "owner": "DTaoo",
             "repo": "Multimodal-Aerial-Scene-Recognition",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1816,12 +2528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AlignNet: A Unifying Approach to Audio-Visual Alignment (WACV 2020)",
+            "homepage": null,
             "id": 241025201,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-01-10T19:26:52Z",
+            "open_issues": 1,
             "owner": "zfang399",
             "repo": "AlignNet",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1832,12 +2549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solos: A Dataset for Audio-Visual Music Analysis",
+            "homepage": "https://juanmontesinos.com/Solos",
             "id": 241331085,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-17T19:07:48Z",
+            "open_issues": 0,
             "owner": "JuanFMontesinos",
             "repo": "Solos",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1848,12 +2570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sapsucker Woods 60 Audiovisual Dataset",
+            "homepage": null,
             "id": 511548271,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-10-07T10:14:22Z",
+            "open_issues": 1,
             "owner": "visipedia",
             "repo": "ssw60",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1864,12 +2591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audio Visual Floorplan Reconstruction",
+            "homepage": null,
             "id": 409447386,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-09-28T18:46:05Z",
+            "open_issues": 1,
             "owner": "senthilps8",
             "repo": "avmap",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         },
@@ -1880,12 +2612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of CVPR 2022 paper \"Finding Fallen Objects Via Asynchronous Audio-Visual Integration\".",
+            "homepage": null,
             "id": 510994640,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-04T01:30:36Z",
+            "open_issues": 1,
             "owner": "chuangg",
             "repo": "find_fallen_objects",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
         }
@@ -1904,12 +2641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MUSIC Dataset from The Sound of Pixels (ECCV '18)",
+                "homepage": "http://sound-of-pixels.csail.mit.edu/",
                 "id": 144522997,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-08-12T02:55:59Z",
+                "open_issues": 5,
                 "owner": "roudimit",
                 "repo": "MUSIC_dataset",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.784Z"
             },
@@ -1920,12 +2662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MUSIC Dataset from The Sound of Pixels (ECCV '18)",
+                "homepage": "http://sound-of-pixels.csail.mit.edu/",
                 "id": 144522997,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-08-12T02:55:59Z",
+                "open_issues": 5,
                 "owner": "roudimit",
                 "repo": "MUSIC_dataset",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.784Z"
             },
@@ -1936,12 +2683,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "2.5D visual sound dataset",
+                "homepage": null,
                 "id": 173596914,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2021-09-21T18:17:37Z",
+                "open_issues": 2,
                 "owner": "facebookresearch",
                 "repo": "FAIR-Play",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.784Z"
             },
@@ -1952,12 +2704,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "VideoCC is a dataset containing (video-URL, caption) pairs for training video-text machine learning models. It is created using an automatic pipeline starting from the Conceptual Captions Image-Captioning Dataset.",
+                "homepage": null,
                 "id": 555538775,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2022-12-05T19:36:27Z",
+                "open_issues": 2,
                 "owner": "google-research-datasets",
                 "repo": "videoCC-data",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.784Z"
             },
@@ -1968,12 +2725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sapsucker Woods 60 Audiovisual Dataset",
+                "homepage": null,
                 "id": 511548271,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-10-07T10:14:22Z",
+                "open_issues": 1,
                 "owner": "visipedia",
                 "repo": "ssw60",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.784Z"
             },
@@ -1984,12 +2746,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and dataset release for \"PACS: A Dataset for Physical Audiovisual CommonSense Reasoning\" (ECCV 2022)",
+                "homepage": null,
                 "id": 471536187,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-20T07:29:07Z",
+                "open_issues": 0,
                 "owner": "samuelyu2002",
                 "repo": "PACS",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "audiovisual",
+                  "commonsense-reasoning",
+                  "dataset",
+                  "multimodal",
+                  "pytorch",
+                  "question-answering"
+                ]
               },
               "first_seen": "2026-08-28T21:21:12.784Z"
             },
@@ -2000,12 +2774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset for Audio-Visual ZSL",
+                "homepage": "https://www.cse.iitk.ac.in/users/kranti/avzsl.html",
                 "id": 210435934,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-12T07:03:50Z",
+                "open_issues": 1,
                 "owner": "krantiparida",
                 "repo": "AudioSetZSL",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.784Z"
             }
@@ -2019,15 +2798,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:21:12.784Z",
+    "last_updated": "2026-08-29T04:37:48.930Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
+      "homepage": null,
       "id": 178567785,
       "language": null,
+      "license": null,
       "last_commit": "2024-01-30T14:39:52Z",
+      "open_issues": 2,
       "owner": "krantiparida",
       "repo": "awesome-audio-visual",
-      "stars": 777
+      "stars": 777,
+      "topics": [
+        "audio-visual",
+        "awesome",
+        "awesome-list",
+        "cross-modal",
+        "localization",
+        "mutli-modal",
+        "source-separation"
+      ]
     },
     "original_repository_sha": "257f198638176358a3a49fc7bb00635fb71842ee",
     "enhanced_repository": "enhansome/enhansome-audio-visual",
