@@ -1369,7 +1369,7 @@
             "open_issues": 6,
             "owner": "nikhilsinghmus",
             "repo": "image2reverb",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1606,7 +1606,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14059,
+            "stars": 14060,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:27:07.654Z",
+    "last_updated": "2026-09-02T15:03:55.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
