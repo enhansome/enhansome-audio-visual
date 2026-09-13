@@ -1,6 +1,6 @@
 # Awesome Audio-Visual: with stars
 
-A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,553 | 🐛 92 | 📅 2024-05-17.
+A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,555 | 🐛 92 | 📅 2024-05-17.
 
 ## Contents
 
@@ -196,7 +196,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Faces/Speech
 
-* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,076 | 🐛 665 | 🌐 Python | 📅 2024-06-26
+* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,080 | 🐛 665 | 🌐 Python | 📅 2024-06-26
 * [Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction](https://openreview.net/pdf?id=Z1Qlm11uOM) - Shi, B., Hsu, W. N., Lakhotia, K., & Mohamed, A. (ICLR 2022) [\[code\]](https://github.com/facebookresearch/av_hubert) ⚠️ Archived
 * [Pose-controllable talking face generation by implicitly modularized audio-visual representation](https://arxiv.org/pdf/2104.11116.pdf) - Zhou, H., Sun, Y., Wu, W., Loy, C. C., Wang, X., & Liu, Z. (CVPR 2021) [\[project page\]](https://hangz-nju-cuhk.github.io/projects/PC-AVS) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS) ⭐ 958 | 🐛 49 | 🌐 Python | 📅 2024-01-06
 * [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation](https://arxiv.org/pdf/1807.07860.pdf) - Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang (AAAI 2019) [\[project page\]](https://liuziwei7.github.io/projects/TalkingFace) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS) ⭐ 813 | 🐛 42 | 🌐 Python | 📅 2021-05-11
@@ -288,7 +288,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Uncategorized Papers
 
-* [MAD: A Scalable Dataset for Language Grounding in Videos From Movie Audio Descriptions](https://openaccess.thecvf.com/content/CVPR2022/papers/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.pdf) - Soldan, M., Pardo, A., Alcázar, J. L., Caba, F., Zhao, C., Giancola, S., & Ghanem, B. (CVPR 2022) [\[code\]](https://github.com/Soldelli/MAD) ⭐ 177 | 🐛 3 | 🌐 Python | 📅 2023-10-22
+* [MAD: A Scalable Dataset for Language Grounding in Videos From Movie Audio Descriptions](https://openaccess.thecvf.com/content/CVPR2022/papers/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.pdf) - Soldan, M., Pardo, A., Alcázar, J. L., Caba, F., Zhao, C., Giancola, S., & Ghanem, B. (CVPR 2022) [\[code\]](https://github.com/Soldelli/MAD) ⭐ 177 | 🐛 4 | 🌐 Python | 📅 2023-10-22
 * [Audio to Body Dynamics](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shlizerman_Audio_to_Body_CVPR_2018_paper.pdf) - Shlizerman, E., Dery, L., Schoen, H., & Kemelmacher-Shlizerman, I. (CVPR 2018) [\[project page\]](https://arviolin.github.io/AudioBodyDynamics/)[\[code\]](https://github.com/facebookresearch/Audio2BodyDynamics) ⚠️ Archived
 * [Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Self-Supervised_Video_Forensics_by_Audio-Visual_Anomaly_Detection_CVPR_2023_paper.pdf) - Feng, C., Chen, Z., & Owens, A. (CVPR 2023) [\[code\]](https://github.com/cfeng16/audio-visual-forensics) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2024-05-12
 * [Learning Audio-Video Modalities from Image Captions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740396.pdf) - Nagrani, A., Seo, P. H., Seybold, B., Hauth, A., Manen, S., Sun, C., & Schmid, C. (ECCV 2022) [\[project page\]](https://a-nagrani.github.io/videocc.html) [\[dataset\]](https://github.com/google-research-datasets/videoCC-data) ⚠️ Archived
@@ -363,4 +363,4 @@ Please feel free to send me [pull requests](https://github.com/krantiparida/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

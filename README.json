@@ -1606,7 +1606,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14076,
+            "stars": 14080,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -2366,7 +2366,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-10-22T10:01:48Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Soldelli",
             "repo": "MAD",
             "stars": 177,
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:02:27.481Z",
+    "last_updated": "2026-09-13T14:54:12.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
