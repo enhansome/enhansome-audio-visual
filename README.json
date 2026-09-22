@@ -630,7 +630,7 @@
             "open_issues": 26,
             "owner": "marl",
             "repo": "openl3",
-            "stars": 604,
+            "stars": 605,
             "topics": [
               "audio",
               "deep-learning",
@@ -1985,7 +1985,7 @@
             "open_issues": 5,
             "owner": "joonson",
             "repo": "yousaidthat",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:59:00.429Z",
+    "last_updated": "2026-09-22T15:29:27.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",

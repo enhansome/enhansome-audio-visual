@@ -1,6 +1,6 @@
 # Awesome Audio-Visual: with stars
 
-A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,568 | 🐛 98 | 📅 2024-05-17.
+A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,570 | 🐛 99 | 📅 2024-05-17.
 
 ## Contents
 
@@ -81,7 +81,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Representation/Classification/Retrieval
 
-* [Look, listen, and learn more: Design choices for deep audio embeddings](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/cramer_looklistenlearnmore_icassp_2019.pdf) - Cramer, J., Wu, H. H., Salamon, J., & Bello, J. P. (ICASSP 2019) [\[code\]](https://github.com/marl/openl3) ⭐ 604 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2023-06-17 [\[L3-embedding\]](https://github.com/marl/l3embedding) ⭐ 89 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-04-24
+* [Look, listen, and learn more: Design choices for deep audio embeddings](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/cramer_looklistenlearnmore_icassp_2019.pdf) - Cramer, J., Wu, H. H., Salamon, J., & Bello, J. P. (ICASSP 2019) [\[code\]](https://github.com/marl/openl3) ⭐ 605 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2023-06-17 [\[L3-embedding\]](https://github.com/marl/l3embedding) ⭐ 89 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-04-24
 * [Soundnet: Learning sound representations from unlabeled video](http://www.cs.columbia.edu/~vondrick/soundnet.pdf) -  Aytar, Y., Vondrick, C., & Torralba, A. (NIPS 2016) [\[project page\]](http://projects.csail.mit.edu/soundnet/) [\[code\]](https://github.com/cvondrick/soundnet) ⭐ 465 | 🐛 14 | 🌐 Lua | 📅 2017-10-07
 * [Audio-Visual Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970378.pdf) - Zhou, J., Wang, J., Zhang, J., Sun, W., Zhang, J., Birchfield, S., ... & Zhong, Y. (ECCV 2022) [\[code\]](https://github.com/OpenNLPLab/AVSBench) ⭐ 421 | 🐛 4 | 🌐 Python | 📅 2024-11-18
 * [Vggsound: A Large-Scale Audio-Visual Dataset](https://www.robots.ox.ac.uk/~vgg/publications/2020/Chen20/chen20.pdf) - Chen, H., Xie, W., Vedaldi, A., & Zisserman, A. (ICASSP 2020) [\[project page/dataset\]](http://www.robots.ox.ac.uk/~vgg/data/vggsound/) [\[code\]](https://github.com/hche11/VGGSound) ⭐ 359 | 🐛 12 | 🌐 Python | 📅 2021-09-13
@@ -213,7 +213,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 * [Audio2Gestures: Generating Diverse Gestures From Speech Audio With Conditional Variational Autoencoders](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Audio2Gestures_Generating_Diverse_Gestures_From_Speech_Audio_With_Conditional_Variational_ICCV_2021_paper.pdf) - Li, J., Kang, D., Pei, W., Zhe, X., Zhang, Y., He, Z., & Bao, L. (ICCV 2021) [\[code\]](https://github.com/JingLi513/Audio2Gestures) ⭐ 151 | 🐛 15 | 🌐 Python | 📅 2024-01-01 [\[project page\]](https://jingli513.github.io/audio2gestures/)
 * [Audio-Driven Co-Speech Gesture Video Generation](https://papers.nips.cc/paper_files/paper/2022/file/8667f264f88c7938a73a53ab01eb1327-Paper-Conference.pdf) - Liu, X., Wu, Q., Zhou, H., Du, Y., Wu, W., Lin, D., & Liu, Z. (NeurIPS 2022) [\[project page\]](https://alvinliu0.github.io/projects/ANGIE) [\[code\]](https://github.com/alvinliu0/ANGIE) ⭐ 88 | 🐛 3 | 📅 2022-12-05
 * [Jointly Learning Visual and Auditory Speech Representations from Raw Data](https://openreview.net/pdf?id=BPwIgvf5iQ) - Haliassos, A., Ma, P., Mira, R., Petridis, S., & Pantic, M. (ICLR 2023) [\[code\]](https://github.com/ahaliassos/raven) ⭐ 82 | 🐛 5 | 🌐 Python | 📅 2025-02-27
-* [You said that?](http://www.robots.ox.ac.uk/~vgg/publications/2017/Chung17b/chung17b.pdf) - Son Chung, J., Jamaludin, A., & Zisserman, A. (BMVC 2017) [\[project page\]](http://www.robots.ox.ac.uk/~vgg/software/yousaidthat/) [\[code\]](https://github.com/joonson/yousaidthat) ⭐ 70 | 🐛 5 | 🌐 Matlab | 📅 2018-04-29(trained model, evaluation code)
+* [You said that?](http://www.robots.ox.ac.uk/~vgg/publications/2017/Chung17b/chung17b.pdf) - Son Chung, J., Jamaludin, A., & Zisserman, A. (BMVC 2017) [\[project page\]](http://www.robots.ox.ac.uk/~vgg/software/yousaidthat/) [\[code\]](https://github.com/joonson/yousaidthat) ⭐ 71 | 🐛 5 | 🌐 Matlab | 📅 2018-04-29(trained model, evaluation code)
 * [Learning to Have an Ear for Face Super-Resolution](http://openaccess.thecvf.com/content_CVPR_2020/papers/Meishvili_Learning_to_Have_an_Ear_for_Face_Super-Resolution_CVPR_2020_paper.pdf) - Meishvili, G., Jenni, S., & Favaro, P. (CVPR 2020) [\[project page\]](https://gmeishvili.github.io/ear_for_face_super_resolution/index.html) [\[code\]](https://github.com/gmeishvili/ear_for_face_super_resolution) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2020-07-20
 * [Watch or Listen: Robust Audio-Visual Speech Recognition with Visual Corruption Modeling and Reliability Scoring](https://openaccess.thecvf.com/content/CVPR2023/papers/Hong_Watch_or_Listen_Robust_Audio-Visual_Speech_Recognition_With_Visual_Corruption_CVPR_2023_paper.pdf) - Hong, J., Kim, M., Choi, J., & Ro, Y. M. (CVPR 2023) [\[code\]](https://github.com/joannahong/AV-RelScore) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2023-06-20
 * [Seeing voices and hearing faces: Cross-modal biometric matching](http://www.robots.ox.ac.uk/~vgg/publications/2018/Nagrani18a/nagrani18a.pdf) - Nagrani, A., Albanie, S., & Zisserman, A. (CVPR 2018) [\[project page\]](http://www.robots.ox.ac.uk/~vgg/research/CMBiometrics/)[\[code\]](https://github.com/a-nagrani/SVHF-Net) ⭐ 32 | 🐛 4 | 🌐 Matlab | 📅 2018-08-22(trained moodel only)
@@ -363,4 +363,4 @@ Please feel free to send me [pull requests](https://github.com/krantiparida/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
