@@ -1411,7 +1411,7 @@
             "open_issues": 1,
             "owner": "facebookresearch",
             "repo": "novel-view-acoustic-synthesis",
-            "stars": 54,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:37:20.001Z",
+    "last_updated": "2026-09-28T18:34:26.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
