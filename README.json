@@ -1606,7 +1606,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14111,
+            "stars": 14114,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1637,7 +1637,7 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "av_hubert",
-            "stars": 997,
+            "stars": 996,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1805,7 +1805,7 @@
             "open_issues": 0,
             "owner": "Advocate99",
             "repo": "DiffGesture",
-            "stars": 265,
+            "stars": 264,
             "topics": [
               "aigc",
               "animation",
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:36.940Z",
+    "last_updated": "2026-10-03T15:08:41.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
