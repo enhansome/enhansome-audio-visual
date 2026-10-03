@@ -862,7 +862,7 @@
         {
           "node_type": "item",
           "title": "Audio-visual Generalised Zero-shot Learning with Cross-modal Attention and Language",
-          "description": "[code]",
+          "description": "ExplainableML/AVCA-GZSL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1606,7 +1606,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14110,
+            "stars": 14111,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:36:05.571Z",
+    "last_updated": "2026-10-03T04:35:36.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
