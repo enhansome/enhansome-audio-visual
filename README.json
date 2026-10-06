@@ -1516,7 +1516,7 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "sound-spaces",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1537,7 +1537,7 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "sound-spaces",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1606,7 +1606,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14117,
+            "stars": 14119,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1707,27 +1707,6 @@
         },
         {
           "node_type": "item",
-          "title": "DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation",
-          "description": "Shen, S., Zhao, W., Meng, Z., Li, W., Zhu, Z., Zhou, J., & Lu, J. (CVPR 2023) [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CVPR2023] The implementation for \"DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation\"",
-            "homepage": null,
-            "id": 587157225,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-07-15T12:46:56Z",
-            "open_issues": 35,
-            "owner": "sstzal",
-            "repo": "DiffTalk",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:21:12.784Z"
-        },
-        {
-          "node_type": "item",
           "title": "Unsupervised audiovisual synthesis via exemplar autoencoders",
           "description": "Deng, K., Bansal, A., & Ramanan, D. [project page] [project page]",
           "children": [],
@@ -1742,6 +1721,27 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "sound-spaces",
+            "stars": 473,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:21:12.784Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation",
+          "description": "Shen, S., Zhao, W., Meng, Z., Li, W., Zhu, Z., Zhou, J., & Lu, J. (CVPR 2023) [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CVPR2023] The implementation for \"DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation\"",
+            "homepage": null,
+            "id": 587157225,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-07-15T12:46:56Z",
+            "open_issues": 35,
+            "owner": "sstzal",
+            "repo": "DiffTalk",
             "stars": 472,
             "topics": []
           },
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:45:58.427Z",
+    "last_updated": "2026-10-06T10:30:19.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
