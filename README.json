@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "YapengTian",
             "repo": "AVE-ECCV18",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "audio-visual-events",
               "audio-visual-learning",
@@ -630,7 +630,7 @@
             "open_issues": 26,
             "owner": "marl",
             "repo": "openl3",
-            "stars": 605,
+            "stars": 606,
             "topics": [
               "audio",
               "deep-learning",
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:46:10.477Z",
+    "last_updated": "2026-10-08T17:50:15.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
