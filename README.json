@@ -707,10 +707,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2021-09-13T19:26:53Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "hche11",
             "repo": "VGGSound",
-            "stars": 359,
+            "stars": 360,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1606,7 +1606,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14122,
+            "stars": 14123,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -2027,7 +2027,7 @@
             "open_issues": 1,
             "owner": "joannahong",
             "repo": "AV-RelScore",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "audio-visual",
               "avsr",
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:24:58.143Z",
+    "last_updated": "2026-10-10T16:12:33.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
