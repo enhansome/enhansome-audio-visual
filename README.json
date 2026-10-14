@@ -395,7 +395,7 @@
             "open_issues": 18,
             "owner": "facebookresearch",
             "repo": "VisualVoice",
-            "stars": 250,
+            "stars": 249,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1606,7 +1606,7 @@
             "open_issues": 664,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14129,
+            "stars": 14131,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1679,7 +1679,7 @@
             "open_issues": 42,
             "owner": "Hangz-nju-cuhk",
             "repo": "Talking-Face-Generation-DAVS",
-            "stars": 813,
+            "stars": 812,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1896,7 +1896,7 @@
             "open_issues": 5,
             "owner": "cmu-mlsp",
             "repo": "reconstructing_faces_from_voices",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "gan",
               "neurips-2019",
@@ -2369,7 +2369,7 @@
             "open_issues": 4,
             "owner": "Soldelli",
             "repo": "MAD",
-            "stars": 177,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T18:10:00.284Z",
+    "last_updated": "2026-10-14T15:47:47.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
