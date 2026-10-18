@@ -1,6 +1,6 @@
 # Awesome Audio-Visual: with stars
 
-A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,602 | 🐛 99 | 📅 2024-05-17.
+A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,604 | 🐛 99 | 📅 2024-05-17.
 
 ## Contents
 
@@ -290,7 +290,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 * [MAD: A Scalable Dataset for Language Grounding in Videos From Movie Audio Descriptions](https://openaccess.thecvf.com/content/CVPR2022/papers/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.pdf) - Soldan, M., Pardo, A., Alcázar, J. L., Caba, F., Zhao, C., Giancola, S., & Ghanem, B. (CVPR 2022) [\[code\]](https://github.com/Soldelli/MAD) ⭐ 178 | 🐛 4 | 🌐 Python | 📅 2023-10-22
 * [Audio to Body Dynamics](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shlizerman_Audio_to_Body_CVPR_2018_paper.pdf) - Shlizerman, E., Dery, L., Schoen, H., & Kemelmacher-Shlizerman, I. (CVPR 2018) [\[project page\]](https://arviolin.github.io/AudioBodyDynamics/)[\[code\]](https://github.com/facebookresearch/Audio2BodyDynamics) ⚠️ Archived
-* [Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Self-Supervised_Video_Forensics_by_Audio-Visual_Anomaly_Detection_CVPR_2023_paper.pdf) - Feng, C., Chen, Z., & Owens, A. (CVPR 2023) [\[code\]](https://github.com/cfeng16/audio-visual-forensics) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2024-05-12
+* [Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Self-Supervised_Video_Forensics_by_Audio-Visual_Anomaly_Detection_CVPR_2023_paper.pdf) - Feng, C., Chen, Z., & Owens, A. (CVPR 2023) [\[code\]](https://github.com/cfeng16/audio-visual-forensics) ⭐ 114 | 🐛 5 | 🌐 Python | 📅 2024-05-12
 * [Learning Audio-Video Modalities from Image Captions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740396.pdf) - Nagrani, A., Seo, P. H., Seybold, B., Hauth, A., Manen, S., Sun, C., & Schmid, C. (ECCV 2022) [\[project page\]](https://a-nagrani.github.io/videocc.html) [\[dataset\]](https://github.com/google-research-datasets/videoCC-data) ⚠️ Archived
 * [Vision-Infused Deep Audio Inpainting](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Vision-Infused_Deep_Audio_Inpainting_ICCV_2019_paper.pdf) - Zhou, H., Liu, Z., Xu, X., Luo, P., & Wang, X. (ICCV 2019) [\[project page\]](https://hangz-nju-cuhk.github.io/projects/AudioInpainting) [\[code\]](https://github.com/Hangz-nju-cuhk/Vision-Infused-Audio-Inpainter-VIAI) ⭐ 58 | 🐛 3 | 🌐 Python | 📅 2019-10-25
 * [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge]() - Valverde, F. R., Hurtado, J. V., & Valada, A. (CVPR 2021) [\[code\]](https://github.com/robot-learning-freiburg/MM-DistillNet) ⭐ 56 | 🐛 12 | 🌐 Python | 📅 2021-05-17 [\[project page/dataset\]](http://multimodal-distill.cs.uni-freiburg.de/)
@@ -363,4 +363,4 @@ Please feel free to send me [pull requests](https://github.com/krantiparida/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
