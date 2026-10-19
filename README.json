@@ -731,7 +731,7 @@
             "open_issues": 17,
             "owner": "YuanGongND",
             "repo": "cav-mae",
-            "stars": 293,
+            "stars": 292,
             "topics": [
               "audio",
               "audio-processing",
@@ -1606,7 +1606,7 @@
             "open_issues": 665,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14140,
+            "stars": 14143,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1637,7 +1637,7 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "av_hubert",
-            "stars": 996,
+            "stars": 995,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1919,7 +1919,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-01-01T23:52:33Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "JingLi513",
             "repo": "Audio2Gestures",
             "stars": 151,
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:30:43.433Z",
+    "last_updated": "2026-10-19T17:25:54.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
