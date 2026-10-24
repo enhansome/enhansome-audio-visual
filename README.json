@@ -800,7 +800,7 @@
             "open_issues": 2,
             "owner": "yanbeic",
             "repo": "CCL",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "audio-teacher-models",
               "audio-visual-learning",
@@ -1126,7 +1126,7 @@
             "open_issues": 5,
             "owner": "ekazakos",
             "repo": "temporal-binding-network",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "action-recognition",
               "audio-visual",
@@ -1606,7 +1606,7 @@
             "open_issues": 667,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14152,
+            "stars": 14153,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:42:54.355Z",
+    "last_updated": "2026-10-24T14:27:12.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
