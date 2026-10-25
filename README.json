@@ -1516,7 +1516,7 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "sound-spaces",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1537,7 +1537,7 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "sound-spaces",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1606,7 +1606,7 @@
             "open_issues": 667,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14153,
+            "stars": 14158,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1721,7 +1721,7 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "sound-spaces",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:27:12.592Z",
+    "last_updated": "2026-10-25T14:55:46.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
