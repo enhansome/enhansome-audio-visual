@@ -16,7 +16,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2021-04-03T14:18:44Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "YapengTian",
             "repo": "AVE-ECCV18",
             "stars": 211,
@@ -1637,7 +1637,7 @@
             "open_issues": 56,
             "owner": "facebookresearch",
             "repo": "av_hubert",
-            "stars": 995,
+            "stars": 994,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1658,7 +1658,7 @@
             "open_issues": 49,
             "owner": "Hangz-nju-cuhk",
             "repo": "Talking-Face_PC-AVS",
-            "stars": 957,
+            "stars": 955,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -1784,7 +1784,7 @@
             "open_issues": 26,
             "owner": "jixinya",
             "repo": "EVP",
-            "stars": 312,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:23:31.121Z",
+    "last_updated": "2026-10-30T16:59:21.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
