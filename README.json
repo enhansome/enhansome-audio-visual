@@ -630,7 +630,7 @@
             "open_issues": 26,
             "owner": "marl",
             "repo": "openl3",
-            "stars": 606,
+            "stars": 605,
             "topics": [
               "audio",
               "deep-learning",
@@ -1606,7 +1606,7 @@
             "open_issues": 670,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14175,
+            "stars": 14177,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -2266,7 +2266,7 @@
             "open_issues": 17,
             "owner": "researchmm",
             "repo": "MM-Diffusion",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "audio-generation",
               "content-creation",
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:43:34.868Z",
+    "last_updated": "2026-11-03T18:22:05.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
