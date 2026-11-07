@@ -1,6 +1,6 @@
 # Awesome Audio-Visual: with stars
 
-A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,630 | 🐛 100 | 📅 2024-05-17.
+A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,631 | 🐛 100 | 📅 2024-05-17.
 
 ## Contents
 
@@ -22,7 +22,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Localization
 
-* [Audio-Visual Event Localization in Unconstrained Videos](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf) - Tian, Y., Shi, J., Li, B., Duan, Z., & Xu, C. (ECCV 2018) [\[project page\]](https://sites.google.com/view/audiovisualresearch) [\[code\]](https://github.com/YapengTian/AVE-ECCV18) ⭐ 211 | 🐛 10 | 🌐 Python | 📅 2021-04-03
+* [Audio-Visual Event Localization in Unconstrained Videos](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.pdf) - Tian, Y., Shi, J., Li, B., Duan, Z., & Xu, C. (ECCV 2018) [\[project page\]](https://sites.google.com/view/audiovisualresearch) [\[code\]](https://github.com/YapengTian/AVE-ECCV18) ⭐ 212 | 🐛 10 | 🌐 Python | 📅 2021-04-03
 * [Multiple Sound Sources Localization from Coarse to Fine](https://arxiv.org/pdf/2007.06355.pdf) - Qian, R., Hu, D., Dinkel, H., Wu, M., Xu, N., & Lin, W. (ECCV 2020) [\[code\]](https://github.com/shvdiwnkozbw/Multi-Source-Sound-Localization) ⭐ 96 | 🐛 8 | 🌐 Python | 📅 2021-10-18
 * [Localizing Visual Sounds the Hard Way](https://arxiv.org/pdf/2104.02691.pdf) - Chen, H., Xie, W., Afouras, T., Nagrani, A., Vedaldi, A., & Zisserman, A. (CVPR 2021) [\[code\]](https://github.com/hche11/Localizing-Visual-Sounds-the-Hard-Way) ⭐ 84 | 🐛 11 | 🌐 Python | 📅 2022-07-06 [\[project page\]](https://www.robots.ox.ac.uk/~vgg/research/lvs/)
 * [Discriminative Sounding Objects Localization via Self-supervised Audiovisual Matching](https://arxiv.org/pdf/2010.05466.pdf) - Hu, D., Qian, R., Jiang, M., Tan, X., Wen, S., Ding, E., Lin, W., Dou, D. (NeurIPS 2020) [\[code\]](https://github.com/DTaoo/Discriminative-Sounding-Objects-Localization) ⭐ 60 | 🐛 10 | 🌐 Python | 📅 2022-01-19 [\[dataset\]](https://zenodo.org/record/4079386#.X4PFodozbb2) [\[demo\]](https://www.youtube.com/watch?v=XRU-R32t6rU\&feature=youtu.be)
@@ -196,7 +196,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Faces/Speech
 
-* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,183 | 🐛 671 | 🌐 Python | 📅 2024-06-26
+* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,188 | 🐛 671 | 🌐 Python | 📅 2024-06-26
 * [Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction](https://openreview.net/pdf?id=Z1Qlm11uOM) - Shi, B., Hsu, W. N., Lakhotia, K., & Mohamed, A. (ICLR 2022) [\[code\]](https://github.com/facebookresearch/av_hubert) ⚠️ Archived
 * [Pose-controllable talking face generation by implicitly modularized audio-visual representation](https://arxiv.org/pdf/2104.11116.pdf) - Zhou, H., Sun, Y., Wu, W., Loy, C. C., Wang, X., & Liu, Z. (CVPR 2021) [\[project page\]](https://hangz-nju-cuhk.github.io/projects/PC-AVS) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS) ⭐ 955 | 🐛 49 | 🌐 Python | 📅 2024-01-06
 * [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation](https://arxiv.org/pdf/1807.07860.pdf) - Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang (AAAI 2019) [\[project page\]](https://liuziwei7.github.io/projects/TalkingFace) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS) ⭐ 811 | 🐛 42 | 🌐 Python | 📅 2021-05-11
@@ -363,4 +363,4 @@ Please feel free to send me [pull requests](https://github.com/krantiparida/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
