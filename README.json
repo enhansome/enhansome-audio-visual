@@ -1603,10 +1603,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-06-26T12:51:53Z",
-            "open_issues": 674,
+            "open_issues": 675,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14214,
+            "stars": 14213,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:22:06.407Z",
+    "last_updated": "2026-11-19T19:27:15.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
