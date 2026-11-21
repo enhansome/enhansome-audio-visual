@@ -1,6 +1,6 @@
 # Awesome Audio-Visual: with stars
 
-A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,659 | 🐛 99 | 📅 2024-05-17.
+A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,662 | 🐛 99 | 📅 2024-05-17.
 
 ## Contents
 
@@ -60,7 +60,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 * [VisualVoice: Audio-Visual Speech Separation With Cross-Modal Consistency]() - Gao, R., & Grauman, K. (CVPR 2021) [\[code\]](https://github.com/facebookresearch/VisualVoice) ⚠️ Archived [\[project page\]](http://vision.cs.utexas.edu/projects/VisualVoice/)
 * [iQuery: Instruments As Queries for Audio-Visual Sound Separation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_iQuery_Instruments_As_Queries_for_Audio-Visual_Sound_Separation_CVPR_2023_paper.pdf) - Chen, J., Zhang, R., Lian, D., Yang, J., Zeng, Z., & Shi, J. (CVPR 2023) [\[code\]](https://github.com/JiabenChen/iQuery) ⭐ 73 | 🐛 3 | 🌐 Python | 📅 2023-07-25
 * [Sep-stereo: Visually guided stereophonic audio generation by associating source separation](https://arxiv.org/pdf/2007.09902.pdf) - Zhou, H., Xu, X., Lin, D., Wang, X., & Liu, Z. (ECCV 2020) [\[project page\]](https://hangz-nju-cuhk.github.io/projects/Sep-Stereo) [\[code\]](https://github.com/SheldonTsui/SepStereo_ECCV2020) ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2020-10-20
-* [Learning to Separate Object Sounds by Watching Unlabeled Video](http://vision.cs.utexas.edu/projects/separating_object_sounds/sound-sep-eccv2018.pdf) - Gao, R., Feris, R., & Grauman, K. (ECCV 2018 (Oral)) [\[project page\]](http://vision.cs.utexas.edu/projects/separating_object_sounds/) [\[code\]](https://github.com/rhgao/Deep-MIML-Network) ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2019-09-24 [\[dataset\]](http://vision.cs.utexas.edu/projects/separating_object_sounds/#data)
+* [Learning to Separate Object Sounds by Watching Unlabeled Video](http://vision.cs.utexas.edu/projects/separating_object_sounds/sound-sep-eccv2018.pdf) - Gao, R., Feris, R., & Grauman, K. (ECCV 2018 (Oral)) [\[project page\]](http://vision.cs.utexas.edu/projects/separating_object_sounds/) [\[code\]](https://github.com/rhgao/Deep-MIML-Network) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2019-09-24 [\[dataset\]](http://vision.cs.utexas.edu/projects/separating_object_sounds/#data)
 * [VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer](http://arxiv.org/abs/2203.04099) - Montesinos, J. F., Kadandale, V. S., & Haro, G. (ECCV 2022) [\[project page\]](https://ipcv.github.io/VoViT/) [\[code\]](https://github.com/JuanFMontesinos/VoViT) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2023-03-18
 * [Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation](https://arxiv.org/pdf/2104.02026.pdf) - Tian, Y., Hu, D., & Xu, C. (CVPR 2021) [\[code\]](https://github.com/YapengTian/CCOL-CVPR21) ⭐ 26 | 🐛 3 | 🌐 Python | 📅 2021-11-24
 * [Language-Guided Audio-Visual Source Separation via Trimodal Consistency](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Language-Guided_Audio-Visual_Source_Separation_via_Trimodal_Consistency_CVPR_2023_paper.pdf) - Tan, R., Ray, A., Burns, A., Plummer, B. A., Salamon, J., Nieto, O., ... & Saenko, K. (CVPR 2023) [\[code\]](https://github.com/rxtan2/AVSeT) ⭐ 18 | 🐛 4 | 🌐 Python | 📅 2023-10-02
@@ -196,7 +196,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Faces/Speech
 
-* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,212 | 🐛 675 | 🌐 Python | 📅 2024-06-26
+* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,214 | 🐛 675 | 🌐 Python | 📅 2024-06-26
 * [Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction](https://openreview.net/pdf?id=Z1Qlm11uOM) - Shi, B., Hsu, W. N., Lakhotia, K., & Mohamed, A. (ICLR 2022) [\[code\]](https://github.com/facebookresearch/av_hubert) ⚠️ Archived
 * [Pose-controllable talking face generation by implicitly modularized audio-visual representation](https://arxiv.org/pdf/2104.11116.pdf) - Zhou, H., Sun, Y., Wu, W., Loy, C. C., Wang, X., & Liu, Z. (CVPR 2021) [\[project page\]](https://hangz-nju-cuhk.github.io/projects/PC-AVS) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS) ⭐ 953 | 🐛 49 | 🌐 Python | 📅 2024-01-06
 * [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation](https://arxiv.org/pdf/1807.07860.pdf) - Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang (AAAI 2019) [\[project page\]](https://liuziwei7.github.io/projects/TalkingFace) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS) ⭐ 810 | 🐛 42 | 🌐 Python | 📅 2021-05-11
@@ -363,4 +363,4 @@ Please feel free to send me [pull requests](https://github.com/krantiparida/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
