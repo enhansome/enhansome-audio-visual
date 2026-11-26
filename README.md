@@ -1,6 +1,6 @@
 # Awesome Audio-Visual: with stars
 
-A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,669 | 🐛 97 | 📅 2024-05-17.
+A curated list of papers and datsets for various audio-visual tasks, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,671 | 🐛 97 | 📅 2024-05-17.
 
 ## Contents
 
@@ -56,9 +56,9 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Separation
 
-* [The Sound of Pixels](https://arxiv.org/pdf/1804.03160.pdf) - Zhao, H., Gan, C., Rouditchenko, A., Vondrick, C., McDermott, J., & Torralba, A. (ECCV 2018) [\[project page\]](http://sound-of-pixels.csail.mit.edu/) [\[code\]](https://github.com/hangzhaomit/Sound-of-Pixels) ⭐ 394 | 🐛 11 | 🌐 Python | 📅 2022-04-25 [\[dataset\]](https://github.com/roudimit/MUSIC_dataset) ⭐ 140 | 🐛 5 | 📅 2022-08-12
+* [The Sound of Pixels](https://arxiv.org/pdf/1804.03160.pdf) - Zhao, H., Gan, C., Rouditchenko, A., Vondrick, C., McDermott, J., & Torralba, A. (ECCV 2018) [\[project page\]](http://sound-of-pixels.csail.mit.edu/) [\[code\]](https://github.com/hangzhaomit/Sound-of-Pixels) ⭐ 393 | 🐛 11 | 🌐 Python | 📅 2022-04-25 [\[dataset\]](https://github.com/roudimit/MUSIC_dataset) ⭐ 140 | 🐛 5 | 📅 2022-08-12
 * [VisualVoice: Audio-Visual Speech Separation With Cross-Modal Consistency]() - Gao, R., & Grauman, K. (CVPR 2021) [\[code\]](https://github.com/facebookresearch/VisualVoice) ⚠️ Archived [\[project page\]](http://vision.cs.utexas.edu/projects/VisualVoice/)
-* [iQuery: Instruments As Queries for Audio-Visual Sound Separation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_iQuery_Instruments_As_Queries_for_Audio-Visual_Sound_Separation_CVPR_2023_paper.pdf) - Chen, J., Zhang, R., Lian, D., Yang, J., Zeng, Z., & Shi, J. (CVPR 2023) [\[code\]](https://github.com/JiabenChen/iQuery) ⭐ 73 | 🐛 3 | 🌐 Python | 📅 2023-07-25
+* [iQuery: Instruments As Queries for Audio-Visual Sound Separation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_iQuery_Instruments_As_Queries_for_Audio-Visual_Sound_Separation_CVPR_2023_paper.pdf) - Chen, J., Zhang, R., Lian, D., Yang, J., Zeng, Z., & Shi, J. (CVPR 2023) [\[code\]](https://github.com/JiabenChen/iQuery) ⭐ 72 | 🐛 3 | 🌐 Python | 📅 2023-07-25
 * [Sep-stereo: Visually guided stereophonic audio generation by associating source separation](https://arxiv.org/pdf/2007.09902.pdf) - Zhou, H., Xu, X., Lin, D., Wang, X., & Liu, Z. (ECCV 2020) [\[project page\]](https://hangz-nju-cuhk.github.io/projects/Sep-Stereo) [\[code\]](https://github.com/SheldonTsui/SepStereo_ECCV2020) ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2020-10-20
 * [Learning to Separate Object Sounds by Watching Unlabeled Video](http://vision.cs.utexas.edu/projects/separating_object_sounds/sound-sep-eccv2018.pdf) - Gao, R., Feris, R., & Grauman, K. (ECCV 2018 (Oral)) [\[project page\]](http://vision.cs.utexas.edu/projects/separating_object_sounds/) [\[code\]](https://github.com/rhgao/Deep-MIML-Network) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2019-09-24 [\[dataset\]](http://vision.cs.utexas.edu/projects/separating_object_sounds/#data)
 * [VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer](http://arxiv.org/abs/2203.04099) - Montesinos, J. F., Kadandale, V. S., & Haro, G. (ECCV 2022) [\[project page\]](https://ipcv.github.io/VoViT/) [\[code\]](https://github.com/JuanFMontesinos/VoViT) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2023-03-18
@@ -81,7 +81,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Representation/Classification/Retrieval
 
-* [Look, listen, and learn more: Design choices for deep audio embeddings](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/cramer_looklistenlearnmore_icassp_2019.pdf) - Cramer, J., Wu, H. H., Salamon, J., & Bello, J. P. (ICASSP 2019) [\[code\]](https://github.com/marl/openl3) ⭐ 605 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2023-06-17 [\[L3-embedding\]](https://github.com/marl/l3embedding) ⭐ 89 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-04-24
+* [Look, listen, and learn more: Design choices for deep audio embeddings](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/cramer_looklistenlearnmore_icassp_2019.pdf) - Cramer, J., Wu, H. H., Salamon, J., & Bello, J. P. (ICASSP 2019) [\[code\]](https://github.com/marl/openl3) ⭐ 606 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2023-06-17 [\[L3-embedding\]](https://github.com/marl/l3embedding) ⭐ 89 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-04-24
 * [Soundnet: Learning sound representations from unlabeled video](http://www.cs.columbia.edu/~vondrick/soundnet.pdf) -  Aytar, Y., Vondrick, C., & Torralba, A. (NIPS 2016) [\[project page\]](http://projects.csail.mit.edu/soundnet/) [\[code\]](https://github.com/cvondrick/soundnet) ⭐ 465 | 🐛 14 | 🌐 Lua | 📅 2017-10-07
 * [Audio-Visual Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970378.pdf) - Zhou, J., Wang, J., Zhang, J., Sun, W., Zhang, J., Birchfield, S., ... & Zhong, Y. (ECCV 2022) [\[code\]](https://github.com/OpenNLPLab/AVSBench) ⭐ 424 | 🐛 4 | 🌐 Python | 📅 2024-11-18
 * [Vggsound: A Large-Scale Audio-Visual Dataset](https://www.robots.ox.ac.uk/~vgg/publications/2020/Chen20/chen20.pdf) - Chen, H., Xie, W., Vedaldi, A., & Zisserman, A. (ICASSP 2020) [\[project page/dataset\]](http://www.robots.ox.ac.uk/~vgg/data/vggsound/) [\[code\]](https://github.com/hche11/VGGSound) ⭐ 360 | 🐛 12 | 🌐 Python | 📅 2021-09-13
@@ -161,7 +161,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual RIR
 
-* [Learning Neural Acoustic Fields](https://arxiv.org/pdf/2204.00628.pdf) - Luo, A., Du, Y., Tarr, M., Tenenbaum, J., Torralba, A., & Gan, C. (NeurIPS 2022) [\[code\]](https://github.com/aluo-x/Learning_Neural_Acoustic_Fields) ⭐ 173 | 🐛 0 | 🌐 Python | 📅 2024-01-20
+* [Learning Neural Acoustic Fields](https://arxiv.org/pdf/2204.00628.pdf) - Luo, A., Du, Y., Tarr, M., Tenenbaum, J., Torralba, A., & Gan, C. (NeurIPS 2022) [\[code\]](https://github.com/aluo-x/Learning_Neural_Acoustic_Fields) ⭐ 172 | 🐛 0 | 🌐 Python | 📅 2024-01-20
 * [Image2reverb: Cross-modal reverb impulse response synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Singh_Image2Reverb_Cross-Modal_Reverb_Impulse_Response_Synthesis_ICCV_2021_paper.pdf) - Singh, N., Mentch, J., Ng, J., Beveridge, M., & Drori, I. (ICCV 2021). [\[code\]](https://github.com/nikhilsinghmus/image2reverb) ⭐ 94 | 🐛 6 | 🌐 Python | 📅 2021-10-12
 * [Visual acoustic matching](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Visual_Acoustic_Matching_CVPR_2022_paper.pdf) - Chen, C., Gao, R., Calamia, P., & Grauman, K. (CVPR 2022) [\[code\]](https://github.com/facebookresearch/visual-acoustic-matching) ⚠️ Archived
 * [Novel-View Acoustic Synthesis](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Novel-View_Acoustic_Synthesis_CVPR_2023_paper.pdf) - Chen, C., Richard, A., Shapovalov, R., Ithapu, V. K., Neverova, N., Grauman, K., & Vedaldi, A. (CVPR 2023) [\[code\]](https://github.com/facebookresearch/novel-view-acoustic-synthesis) ⚠️ Archived
@@ -196,7 +196,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 
 #### Audio-Visual Faces/Speech
 
-* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,224 | 🐛 675 | 🌐 Python | 📅 2024-06-26
+* [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) - Zhang, W., Cun, X., Wang, X., Zhang, Y., Shen, X., Guo, Y., ... & Wang, F. (CVPR 2023) [\[project page\]](https://sadtalker.github.io/) [\[code\]](https://github.com/OpenTalker/SadTalker) ⭐ 14,225 | 🐛 675 | 🌐 Python | 📅 2024-06-26
 * [Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction](https://openreview.net/pdf?id=Z1Qlm11uOM) - Shi, B., Hsu, W. N., Lakhotia, K., & Mohamed, A. (ICLR 2022) [\[code\]](https://github.com/facebookresearch/av_hubert) ⚠️ Archived
 * [Pose-controllable talking face generation by implicitly modularized audio-visual representation](https://arxiv.org/pdf/2104.11116.pdf) - Zhou, H., Sun, Y., Wu, W., Loy, C. C., Wang, X., & Liu, Z. (CVPR 2021) [\[project page\]](https://hangz-nju-cuhk.github.io/projects/PC-AVS) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS) ⭐ 953 | 🐛 49 | 🌐 Python | 📅 2024-01-06
 * [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation](https://arxiv.org/pdf/1807.07860.pdf) - Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang (AAAI 2019) [\[project page\]](https://liuziwei7.github.io/projects/TalkingFace) [\[code\]](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS) ⭐ 810 | 🐛 42 | 🌐 Python | 📅 2021-05-11
@@ -210,7 +210,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 * [X2Face: A network for controlling face generation using images, audio, and pose codes](http://openaccess.thecvf.com/content_ECCV_2018/papers/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.pdf) - Wiles, O., Sophia Koepke, A., & Zisserman, A. (ECCV 2018)[\[project page\]](http://www.robots.ox.ac.uk/~vgg/research/unsup_learn_watch_faces/x2face.html)[\[code\]](https://github.com/oawiles/X2Face) ⭐ 249 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-02-26
 * [Semantic-Aware Implicit Neural Audio-Driven Video Portrait Generation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970105.pdf) - Liu, X., Xu, Y., Wu, Q., Zhou, H., Wu, W., & Zhou, B. (ECCV 2022) [\[project page\]](https://alvinliu0.github.io/projects/SSP-NeRF) [\[code\]](https://github.com/alvinliu0/SSP-NeRF) ⭐ 226 | 🐛 8 | 🌐 Python | 📅 2022-07-21
 * [Reconstructing faces from voices](https://arxiv.org/pdf/1905.10604.pdf) - Yandong Wen, Rita Singh, Bhiksha Raj (NIPS 2019)[\[project page\]](https://github.com/cmu-mlsp/reconstructing_faces_from_voices) ⭐ 193 | 🐛 5 | 🌐 Python | 📅 2020-01-05
-* [Audio2Gestures: Generating Diverse Gestures From Speech Audio With Conditional Variational Autoencoders](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Audio2Gestures_Generating_Diverse_Gestures_From_Speech_Audio_With_Conditional_Variational_ICCV_2021_paper.pdf) - Li, J., Kang, D., Pei, W., Zhe, X., Zhang, Y., He, Z., & Bao, L. (ICCV 2021) [\[code\]](https://github.com/JingLi513/Audio2Gestures) ⭐ 151 | 🐛 16 | 🌐 Python | 📅 2024-01-01 [\[project page\]](https://jingli513.github.io/audio2gestures/)
+* [Audio2Gestures: Generating Diverse Gestures From Speech Audio With Conditional Variational Autoencoders](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Audio2Gestures_Generating_Diverse_Gestures_From_Speech_Audio_With_Conditional_Variational_ICCV_2021_paper.pdf) - Li, J., Kang, D., Pei, W., Zhe, X., Zhang, Y., He, Z., & Bao, L. (ICCV 2021) [\[code\]](https://github.com/JingLi513/Audio2Gestures) ⭐ 152 | 🐛 16 | 🌐 Python | 📅 2024-01-01 [\[project page\]](https://jingli513.github.io/audio2gestures/)
 * [Audio-Driven Co-Speech Gesture Video Generation](https://papers.nips.cc/paper_files/paper/2022/file/8667f264f88c7938a73a53ab01eb1327-Paper-Conference.pdf) - Liu, X., Wu, Q., Zhou, H., Du, Y., Wu, W., Lin, D., & Liu, Z. (NeurIPS 2022) [\[project page\]](https://alvinliu0.github.io/projects/ANGIE) [\[code\]](https://github.com/alvinliu0/ANGIE) ⭐ 88 | 🐛 3 | 📅 2022-12-05
 * [Jointly Learning Visual and Auditory Speech Representations from Raw Data](https://openreview.net/pdf?id=BPwIgvf5iQ) - Haliassos, A., Ma, P., Mira, R., Petridis, S., & Pantic, M. (ICLR 2023) [\[code\]](https://github.com/ahaliassos/raven) ⭐ 82 | 🐛 5 | 🌐 Python | 📅 2025-02-27
 * [You said that?](http://www.robots.ox.ac.uk/~vgg/publications/2017/Chung17b/chung17b.pdf) - Son Chung, J., Jamaludin, A., & Zisserman, A. (BMVC 2017) [\[project page\]](http://www.robots.ox.ac.uk/~vgg/software/yousaidthat/) [\[code\]](https://github.com/joonson/yousaidthat) ⭐ 72 | 🐛 5 | 🌐 Matlab | 📅 2018-04-29(trained model, evaluation code)
@@ -249,7 +249,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 #### Audio-Visual Learning of Scene Acoustics
 
 * [INRAS: Implicit Neural Representations of Audio Scenes](https://openreview.net/pdf?id=7KBzV5IL7W) - Su, K.\*, Chen, M.\*, Shilzerman, E. (NeurIPS 2022) <!--[[code]]() [[project page]]()-->
-* [Learning Neural Acoustic Fields](https://openreview.net/pdf?id=lkQ7meEa-qv) - Luo, A., Du, Y., Tarr, M., Tenenbaum, J., Torralba, A., & Gan, C. (NeurIPS 2022) [\[code\]](https://github.com/aluo-x/Learning_Neural_Acoustic_Fields) ⭐ 173 | 🐛 0 | 🌐 Python | 📅 2024-01-20 [\[project page\]](https://www.andrew.cmu.edu/user/afluo/Neural_Acoustic_Fields/)
+* [Learning Neural Acoustic Fields](https://openreview.net/pdf?id=lkQ7meEa-qv) - Luo, A., Du, Y., Tarr, M., Tenenbaum, J., Torralba, A., & Gan, C. (NeurIPS 2022) [\[code\]](https://github.com/aluo-x/Learning_Neural_Acoustic_Fields) ⭐ 172 | 🐛 0 | 🌐 Python | 📅 2024-01-20 [\[project page\]](https://www.andrew.cmu.edu/user/afluo/Neural_Acoustic_Fields/)
 
 #### Audio-Visual Question Answering
 
@@ -363,4 +363,4 @@ Please feel free to send me [pull requests](https://github.com/krantiparida/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

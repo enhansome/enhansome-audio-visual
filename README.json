@@ -369,7 +369,7 @@
             "open_issues": 11,
             "owner": "hangzhaomit",
             "repo": "Sound-of-Pixels",
-            "stars": 394,
+            "stars": 393,
             "topics": [
               "computer-vision",
               "cross-modality",
@@ -416,7 +416,7 @@
             "open_issues": 3,
             "owner": "JiabenChen",
             "repo": "iQuery",
-            "stars": 73,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -630,7 +630,7 @@
             "open_issues": 26,
             "owner": "marl",
             "repo": "openl3",
-            "stars": 605,
+            "stars": 606,
             "topics": [
               "audio",
               "deep-learning",
@@ -1335,7 +1335,7 @@
             "open_issues": 0,
             "owner": "aluo-x",
             "repo": "Learning_Neural_Acoustic_Fields",
-            "stars": 173,
+            "stars": 172,
             "topics": [
               "3d-audio",
               "acoustic-model",
@@ -1606,7 +1606,7 @@
             "open_issues": 675,
             "owner": "OpenTalker",
             "repo": "SadTalker",
-            "stars": 14224,
+            "stars": 14225,
             "topics": [
               "audio-driven-talking-face",
               "cvpr2023",
@@ -1922,7 +1922,7 @@
             "open_issues": 16,
             "owner": "JingLi513",
             "repo": "Audio2Gestures",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.784Z"
@@ -2798,7 +2798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:26:20.473Z",
+    "last_updated": "2026-11-26T20:05:49.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of different papers and datasets in various areas of audio-visual processing",
